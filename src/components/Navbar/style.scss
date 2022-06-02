@@ -1,0 +1,25 @@
+.navContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 0.7rem;
+  color: white;
+}
+
+.contactUs {
+  padding: 0.3rem;
+  margin-right: -1rem;
+}
+
+.mobilePhone {
+  margin-left: 2rem;
+  border: solid 0.5px gray;
+  padding: 0.3rem;
+  border-radius: 0.2rem;
+}
+
+a {
+  color: white;
+}

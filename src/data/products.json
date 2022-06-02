@@ -1,0 +1,195 @@
+[
+  {
+    "id": 0,
+    "name": "Aspiradora",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_785923-MLA44111791805_112020-O.webp",
+    "description": "Aspiradora ATMA 1800 W\n- Modelo AS8941F\n- Sistema sin bolsa\n- Capacidad 2.5 L\n- Variación electrónica de potencia\n- Enrolla cable automático\n- Tubos telescópicos metálicos\n- Cepillo para pisos con 2 posiciones\n- Trae cepillos de boca fina y de tapicería 2 en 1",
+    "price": 7000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_702727-MLA49800298931_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_998549-MLA49800295889_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_671835-MLA49800413066_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_948682-MLA49800397198_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 1,
+    "name": "Mesa venecita",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_905400-MLA49800660614_042022-F.webp",
+    "description": "Mesa venecitas con patas de hierror negras\n- 60 cm de diámetro\n- 70 cm de alto\n- Apto exterior",
+    "price": 9000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_792743-MLA49800717176_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_609768-MLA49800671504_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_839260-MLA49800630808_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_951843-MLA49800731063_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 2,
+    "name": "Molinillo de café",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_828393-MLA31041689631_062019-F.webp",
+    "description": "Molinillo de café Delonghi KG-40\n- Potencia de 170 watts\n- Capacidad de 90 grs\n- Cuchillas de molienda de acero inoxidable\n- Contenedor de café de acrílico transparente y extraíble\n- Cepillo para limpieza\n- Sistema \"pulse para moler\": tapa con pulsador on/off\n- Depósito para el café extraíble",
+    "price": 5000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_993240-MLA49821897128_052022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_726471-MLA49821871433_052022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_606074-MLA49821878403_052022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_968985-MLA49821869506_052022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 3,
+    "name": "Multiprocesadora",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_814430-MLA49800405822_042022-F.webp",
+    "description": "Multiprocesadora Moulinex\n- Con licuadora y procesadora\n- 700 w de potencia\n- 3 velocidades\n- Muy buen estado, tiene dos detalles que pueden verse en las últimas dos fotos que no afectan el buen funcionamiento del aparato.",
+    "price": 8000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_602501-MLA49800565143_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_930202-MLA49800397862_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_774022-MLA49800499322_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_851452-MLA49800507327_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_625173-MLA49800438636_042022-F.webp"
+    ],
+    "is_sold": true
+  },
+  {
+    "id": 4,
+    "name": "Router",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_728491-MLA49800396011_042022-F.webp",
+    "description": "Router Linksys EA2700\n- Dual Band\n- 300 Mbps + 300 Mbps de velocidad (Bandas 2.4 y 5 Ghz)\n- 4 conexiones Gigabit Ethernet\n- Excelente estado\n- Incluye cable de red listo para conectar a tu módem",
+    "price": 1500,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_948265-MLA49800315569_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_950782-MLA49800344357_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 5,
+    "name": "Parlantes 5.1 Logitech",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_937729-MLA49800323323_042022-F.webp",
+    "description": "Parlantes Logitech X-540 5.1 con Subwoofer - En excelente estado\nContiene 5 parlantes satélites + 1 subwoofer central\nSirve para computadoras con placa de sonido o para consolas de juego, pero para este caso requiere un adaptador especial que no viene incluido. No es compatible con TV.\n- Modo matrix: convierte sonidos estéreo a sonido envolvente (muy útil para consolas de juegos)\n- Control de bajos\n- Soporte Dolby Digital (en caso de que la placa de sonido sea compatible)\n- Viene preparado para montar los parlantes a la pared.\nEspecificaciones técnicas:\n- Potencia RMS total: 70 W reales (RMS)\n- Bocinas satélite: 45 W reales (RMS) (2 x 7,4 W frontales; 15,4 W central; 2 x 7,4 W posteriores) Subwoofer: 25 vatios reales (RMS)\n- Potencia total: 140 W\n- Respuesta de frecuencia: 40 Hz - 20 kHz\n- Transductores:\nParlantes satélite: 2 transductores de 5 cm por bocina\nSubwoofer: Transductor con puerto de 13,5 cm\n-\nDimensiones de las bocinas (Alto x Ancho x Profundidad):\nParlantes satélite: 21,3 cm x 8,1 cm x 12,7 cm\nCanal central: 19,8 cm x 12,1 cm x 9,5 cm\nSubwoofer: 28,6 cm x 16,5 cm x 24,8 cm",
+    "price": 25000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_828190-MLA49800280548_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_720684-MLA49800317385_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_732741-MLA49800269640_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_906669-MLA49800229940_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_793184-MLA49800330231_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 6,
+    "name": "Ventilador de pie",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_934065-MLA49800457043_042022-F.webp",
+    "description": "Ventilador De Pie Electrolux VP21P\n- 95 Watts de potencia\n- 21 pulgadas de diámetro\n- Giratorio\n- 3 velocidades\n- Usado, en excelente estado",
+    "price": 5000,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_887361-MLA49800343764_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_741075-MLA49800405320_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_702050-MLA49800397357_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 7,
+    "name": "Cuadros de vinilo variados",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_976810-MLA49800410906_042022-F.webp",
+    "description": "Varios cuadros de series y películas\n- El precio es por un solo cuadro\n- En caso de querer varios, hacemos descuento!\n- Medidas\n-- Rocky y Jurassic Park: 28x13 cm\n-- Alf y Breaking Bad: 43x27cm\n-- Coffee: 40x26",
+    "price": 200,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_976810-MLA49800410906_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_910246-MLA49800593013_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_925924-MLA49800586127_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_996422-MLA49800499474_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_906036-MLA49800586136_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 8,
+    "name": "Reloj de cocina",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_818922-MLA49800507667_042022-F.webp",
+    "description": "Reloj para la cocina original Flying Tiger Copenhagen\n- Funciona con una pila AA (no incluida)",
+    "price": 200,
+    "images": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_818922-MLA49800507667_042022-F.webp"
+    ],
+    "is_sold": false
+  },
+  {
+    "id": 9,
+    "name": "Joysticks Logitech",
+    "thumbnail": "https://advanti.com/images/product/940-000142.jpg",
+    "description": "",
+    "price": 7100,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 10,
+    "name": "Sandwichera Eléctrica",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_854172-MLA49800590175_042022-F.webp",
+    "description": "",
+    "price": 1500,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 11,
+    "name": "Timbre Inalámbrico Digital",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_828920-MLA49800609210_042022-F.webp",
+    "description": "",
+    "price": 900,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 12,
+    "name": "Guillotina autoafilable",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_879404-MLA49800315648_042022-F.webp",
+    "description": "",
+    "price": 2800,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 13,
+    "name": "Zapatillas Nike Air Max",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_980173-MLA49660388366_042022-F.webp",
+    "description": "",
+    "price": 12000,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 14,
+    "name": "Playstation 4",
+    "thumbnail": "https://www.technopolis.bg/medias/sys_master/images/ha3/h8f/8867254829086.jpg",
+    "description": "",
+    "price": 52000,
+    "images": [],
+    "is_sold": true
+  },
+  {
+    "id": 15,
+    "name": "Cubrecama Arredo",
+    "thumbnail": "https://lh3.google.com/pw/AM-JKLVo3q08sj2xX-T55AiIbVtNyKqSqIDkqBPajj8ZniQrGCqwEnyhA345uf42qjX8ByE9-8P5yi8uGeFLpoFql0-mvS1GFiM=w1142-h1522-no?authuser=0",
+    "description": "Cubrecama Arredo Queen\n- Repujado artesanal\n-Tamaño Queen: 230x240 cm\n- Viene con dos fundas de 60x70 cm y bolso contenedor\n-En perfecto estado!",
+    "price": 4500,
+    "images": [
+      "https://lh3.google.com/pw/AM-JKLUe5GEjPzQf4Lfpo8DWlvg5sJJ5OkMt9jSXTiU3UNThx3fSvRT-Wmbhf-OfwOpOCg6HOIrcAoW8IX-lmcQ_uhGY4JgvfGY=w2110-h1522-no?authuser=0",
+      "https://lh3.google.com/pw/AM-JKLWIXFqrUp-N6oHKf9gxbRs_gt2NA0Ub9yKVpzXNlHCpVfTqM-exOoDt0Q0TlNwOdZe2An2Wyb21xpzgT2PYhijo7txqUUU=w2030-h1522-no?authuser=0",
+      "https://lh3.google.com/pw/AM-JKLWBOdhh9m10wQEYUEZuaYSl3C5t6WMo1IQAjPFwiZH3pZpl6nYD3M5PY_-366BG3pPEjsIpd6hoAuDikx2CK--NcFzyWS0=w1142-h1522-no?authuser=0",
+      "https://lh3.google.com/pw/AM-JKLWb-poD-2JQR24H-pxQfVJbcq6gl-MXzSWvIZrrV2_zcar__kTIH3QFdxxXYh3yQznBFJgFXsfbZaSNh3ihxE1P0l72ZXA=w1142-h1522-no?authuser=0",
+      "https://lh3.google.com/pw/AM-JKLUsPzUnlhwYupMcbapyOhbcEmhWzmdNXLOH4PDJqk_0qroC5X6HlKZshY6SqkBPHBoEFEv3YJd4IoA_ccq7-BTCYAl0k4o=w2030-h1522-no?authuser=0",
+      "https://lh3.google.com/pw/AM-JKLVo3q08sj2xX-T55AiIbVtNyKqSqIDkqBPajj8ZniQrGCqwEnyhA345uf42qjX8ByE9-8P5yi8uGeFLpoFql0-mvS1GFiM=w1142-h1522-no?authuser=0"
+    ],
+    "is_sold": false
+  }
+]

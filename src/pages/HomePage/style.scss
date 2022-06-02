@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.body {
+  min-height: 100vh;
+  display: flex;
+}
+
+.inputContainer {
+  background-color: rgb(193, 223, 244);
+  width: 102vw;
+padding: 0.6rem 1rem 0rem 1rem;
+display: flex;
+justify-content: center;
+}
+
+.search {
+  height: 1.5rem;
+}
+
+.homeContainer {
+  background-color: #d7d5d5;
+  width: 102vw;
+  min-height: 100vh;
+  margin-top: -1rem;
+  padding-right: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  height: 5rem;
+  width: 102vw;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  text-align: center;
+  background-color: rgb(193, 223, 244);
+  padding: 0rem 1rem;
+  margin-bottom: -2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+.productsContainer {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  overflow: hidden;
+  padding-top: 2rem;
+}
+
+.productContainer {
+  width: 17rem;
+  height: 20rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  margin: 0.9rem;
+  padding:1rem;
+  border-radius: 1rem;
+  -webkit-box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86); 
+box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
+}
+
+.productContainer:active {
+  box-shadow: #D6D6E7 0 3px 7px inset;
+  transform: translateY(2px);
+}
+
+.isSold {
+  background-color: #8d8d8d;
+}
+
+.sold {
+  border: solid rgb(180, 5, 5);
+  color: rgb(180, 5, 5);
+  background-color: rgba(255, 255, 255, 0.345);
+  width: 17rem;
+  position: absolute;
+  text-align: center;
+}
+
+.imageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image {
+  height: 13.8rem;
+  padding: 1rem;
+  margin: 1rem;
+  object-fit: cover;
+}
+
+ .cardDesc {
+   display: flex;
+   justify-content: space-evenly;
+   width: 17rem;
+   padding-left: 0.5rem;
+   font-size: 1.1rem;
+   color: rgb(53, 53, 53);
+ }
+
+.name {
+  color: rgb(53, 53, 53);
+  font-size: 1.1rem;
+}
+
+.homePrice {
+  font-weight: 600;
+}
