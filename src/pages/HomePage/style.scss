@@ -85,34 +85,67 @@ box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
   transform: translateY(2px);
 }
 
+.newContainer {
+  display: flex;
+  justify-content: flex-start;
+  width: 10%;
+  //top: 1rem;
+  //margin: -2rem;
+  margin-left: -13rem;
+  margin-top: -1rem;
+  margin-bottom: -0.6rem;
+  height: 1.5rem;
+}
+
+.minibox {
+  position: relative;
+  height: 1rem;
+  margin-top: 1.2rem;
+  margin-right: -4px;
+  border: solid 5px black transparent;
+}
 .new {
-  position: absolute;
-  margin-bottom: 18rem;
-  left: 5.2rem;
-  display: block;
+  position: relative;
+  background: red;
+  width: 100px;
+  height: 40px;
+	display: block;
+  height: 1.5rem;
 	height: 24px;
 	line-height: 24px;
-	background: #4c4c4c;
 	color: #FFF;
-	padding: 0px 10px 0 10px;
+	padding: 0px 10px 0 17px;
+  border-right: red 0.5px solid;
+  border-bottom-right-radius: 1px;
+  border-top-right-radius: 1px;
 	z-index:1;
-  border-radius: 0.1rem 0rem 0rem 0.1rem;
   &:after{
-    position: absolute;
-    right:-5px;
-    top:0;
-    content: "";
-    border-right:  5px solid transparent;
-    border-bottom: 12px solid #4c4c4c;
-    border-top:    12px solid #4c4c4c;
-  }
-  
-  &.red{
-   background: #d90000;
-     &:after{
-      border-color: #d90000 transparent #d90000 transparent;
-     }
-  }
+        position: absolute;
+        content: "";
+        position: absolute;
+        margin-left: -1px;
+        left: 0;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border-left: 11px solid whitesmoke;
+        border-top: 12px solid transparent;
+        border-bottom: 12px solid transparent;
+        
+      }
+      
+      &:before {
+        content: "";
+        position: absolute;
+        right: -13px;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border-left: 13px solid red;
+        border-top: 12px solid transparent;
+        border-bottom: 12px solid transparent;
+      }
+      
 }
 
 .isSold {

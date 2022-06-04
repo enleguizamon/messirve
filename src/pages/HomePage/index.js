@@ -50,7 +50,10 @@ function HomePage() {
                   className="productContainer isNew"
                   ontouchstart=""
                 >
-                  <p className="new red">Nuevo</p>
+                  <div className="newContainer">
+                    <div className="minibox"></div>
+                    <p className="new">Nuevo</p>
+                  </div>
                   <Link to={`/product/${product.id}`}>
                     <div className="imageContainer">
                       <img src={product.thumbnail} className="image" alt="" />
