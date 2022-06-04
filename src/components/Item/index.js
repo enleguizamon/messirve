@@ -11,8 +11,6 @@ function Item(props) {
 
   const { name, images, price, description } = products[id];
   const formatDesc = description.split("\n");
-  console.log(id);
-  console.log("hola");
 
   return (
     <div>

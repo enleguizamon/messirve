@@ -18,8 +18,9 @@ function HomePage() {
           placeholder="Buscar..."
         />
       </div>
-      <div className="title">
-        <p>SE VENDE</p>
+      <div className="titleWrapper">
+        <p className="title">SE VENDE</p>
+        <p className="contactText">Entregas a coordinar</p>
       </div>
       <ul className="productsContainer">
         {products
@@ -35,12 +36,33 @@ function HomePage() {
             }
           })
           .sort((productA, productB) =>
-            !productA.is_sold && productB.is_sold && productA.id > productB.id
+            ((productA.is_new && !productB.is_new) ||
+              (!productA.is_sold && productB.is_sold)) &&
+            productA.id > productB.id
               ? -1
               : 1
           )
           .map((product, key) => {
-            if (!product.is_sold) {
+            if (product.is_new) {
+              return (
+                <li
+                  key={key}
+                  className="productContainer isNew"
+                  ontouchstart=""
+                >
+                  <p className="new red">Nuevo</p>
+                  <Link to={`/product/${product.id}`}>
+                    <div className="imageContainer">
+                      <img src={product.thumbnail} className="image" alt="" />
+                    </div>
+                    <div className="cardDesc">
+                      <p className="name">{product.name}</p>
+                      <p className="homePrice">$ {product.price}</p>
+                    </div>
+                  </Link>
+                </li>
+              );
+            } else if (!product.is_sold) {
               return (
                 <li key={key} className="productContainer" ontouchstart="">
                   <Link to={`/product/${product.id}`}>

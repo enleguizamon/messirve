@@ -11,6 +11,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_671835-MLA49800413066_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_948682-MLA49800397198_042022-F.webp"
     ],
+    "is_new": true,
     "is_sold": false
   },
   {
@@ -25,6 +26,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_839260-MLA49800630808_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_951843-MLA49800731063_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -39,6 +41,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_606074-MLA49821878403_052022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_968985-MLA49821869506_052022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -54,6 +57,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_851452-MLA49800507327_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_625173-MLA49800438636_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": true
   },
   {
@@ -66,6 +70,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_948265-MLA49800315569_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_950782-MLA49800344357_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -81,6 +86,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_906669-MLA49800229940_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_793184-MLA49800330231_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -94,6 +100,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_741075-MLA49800405320_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_702050-MLA49800397357_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -109,6 +116,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_996422-MLA49800499474_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_906036-MLA49800586136_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -120,6 +128,7 @@
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_818922-MLA49800507667_042022-F.webp"
     ],
+    "is_new": false,
     "is_sold": false
   },
   {
@@ -129,6 +138,7 @@
     "description": "",
     "price": 7100,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
@@ -138,15 +148,17 @@
     "description": "",
     "price": 1500,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
     "id": 11,
-    "name": "Timbre Inalámbrico",
+    "name": "Timbre Inalámbrico Digital",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_828920-MLA49800609210_042022-F.webp",
     "description": "",
     "price": 900,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
@@ -156,6 +168,7 @@
     "description": "",
     "price": 2800,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
@@ -165,6 +178,7 @@
     "description": "",
     "price": 12000,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
@@ -174,22 +188,39 @@
     "description": "",
     "price": 52000,
     "images": [],
+    "is_new": false,
     "is_sold": true
   },
   {
     "id": 15,
     "name": "Cubrecama Arredo",
-    "thumbnail": "https://lh3.google.com/pw/AM-JKLVo3q08sj2xX-T55AiIbVtNyKqSqIDkqBPajj8ZniQrGCqwEnyhA345uf42qjX8ByE9-8P5yi8uGeFLpoFql0-mvS1GFiM=w1142-h1522-no?authuser=0",
+    "thumbnail": "https://i.postimg.cc/sXsf3S0y/IMG-20220518-154521.jpg",
     "description": "Cubrecama Arredo Queen\n- Repujado artesanal\n-Tamaño Queen: 230x240 cm\n- Viene con dos fundas de 60x70 cm y bolso contenedor\n-En perfecto estado!",
     "price": 4500,
     "images": [
-      "https://lh3.google.com/pw/AM-JKLUe5GEjPzQf4Lfpo8DWlvg5sJJ5OkMt9jSXTiU3UNThx3fSvRT-Wmbhf-OfwOpOCg6HOIrcAoW8IX-lmcQ_uhGY4JgvfGY=w2110-h1522-no?authuser=0",
-      "https://lh3.google.com/pw/AM-JKLWIXFqrUp-N6oHKf9gxbRs_gt2NA0Ub9yKVpzXNlHCpVfTqM-exOoDt0Q0TlNwOdZe2An2Wyb21xpzgT2PYhijo7txqUUU=w2030-h1522-no?authuser=0",
-      "https://lh3.google.com/pw/AM-JKLWBOdhh9m10wQEYUEZuaYSl3C5t6WMo1IQAjPFwiZH3pZpl6nYD3M5PY_-366BG3pPEjsIpd6hoAuDikx2CK--NcFzyWS0=w1142-h1522-no?authuser=0",
-      "https://lh3.google.com/pw/AM-JKLWb-poD-2JQR24H-pxQfVJbcq6gl-MXzSWvIZrrV2_zcar__kTIH3QFdxxXYh3yQznBFJgFXsfbZaSNh3ihxE1P0l72ZXA=w1142-h1522-no?authuser=0",
-      "https://lh3.google.com/pw/AM-JKLUsPzUnlhwYupMcbapyOhbcEmhWzmdNXLOH4PDJqk_0qroC5X6HlKZshY6SqkBPHBoEFEv3YJd4IoA_ccq7-BTCYAl0k4o=w2030-h1522-no?authuser=0",
-      "https://lh3.google.com/pw/AM-JKLVo3q08sj2xX-T55AiIbVtNyKqSqIDkqBPajj8ZniQrGCqwEnyhA345uf42qjX8ByE9-8P5yi8uGeFLpoFql0-mvS1GFiM=w1142-h1522-no?authuser=0"
+      "https://i.postimg.cc/t4n4k9x0/IMG-20220518-153540.jpg",
+      "https://i.postimg.cc/pdNX13fm/IMG-20220518-153746.jpg",
+      "https://i.postimg.cc/9fGF31bJ/IMG-20220518-154005.jpg",
+      "https://i.postimg.cc/ncPLqXMY/IMG-20220518-154407.jpg",
+      "https://i.postimg.cc/sXsf3S0y/IMG-20220518-154521.jpg",
+      "https://i.postimg.cc/yYddJm68/IMG-20220518-161620.jpg"
     ],
+    "is_new": true,
+    "is_sold": false
+  },
+  {
+    "id": 16,
+    "name": "Mesa arrime",
+    "thumbnail": "https://i.postimg.cc/y8P4H59Q/IMG-20220521-131946.jpg",
+    "description": "Mesa arrime/quesera/desayunador\n- 3 cajones con guías\n- Terminación de tapa hidrolaqueado\n- Medidas:120cm (largo) x40cm (profundidad)x 80cm (alto)",
+    "price": 9000,
+    "images": [
+      "https://i.postimg.cc/7Y844SCR/IMG-20220521-131742.jpg",
+      "https://i.postimg.cc/G3sR6XpY/IMG-20220521-131755.jpg",
+      "https://i.postimg.cc/8CKDg3Wd/IMG-20220521-131913.jpg",
+      "https://i.postimg.cc/MTgSvQ9v/IMG-20220521-131946.jpg"
+    ],
+    "is_new": false,
     "is_sold": false
   }
 ]
