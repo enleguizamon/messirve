@@ -12,7 +12,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_948682-MLA49800397198_042022-F.webp"
     ],
     "is_new": true,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 1,
@@ -28,7 +29,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_905400-MLA49800660614_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 2,
@@ -43,7 +45,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_968985-MLA49821869506_052022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 3,
@@ -59,7 +62,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_625173-MLA49800438636_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 4,
@@ -72,7 +76,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_950782-MLA49800344357_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 5,
@@ -88,7 +93,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_793184-MLA49800330231_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 6,
@@ -102,7 +108,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_702050-MLA49800397357_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 7,
@@ -118,7 +125,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_906036-MLA49800586136_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 8,
@@ -130,7 +138,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_818922-MLA49800507667_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 9,
@@ -140,7 +149,8 @@
     "price": 7100,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 10,
@@ -150,7 +160,8 @@
     "price": 1500,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 11,
@@ -160,7 +171,8 @@
     "price": 900,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 12,
@@ -170,7 +182,8 @@
     "price": 2800,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 13,
@@ -180,7 +193,8 @@
     "price": 12000,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 14,
@@ -190,7 +204,8 @@
     "price": 52000,
     "images": [],
     "is_new": false,
-    "is_sold": true
+    "is_sold": true,
+    "is_visible": true
   },
   {
     "id": 15,
@@ -207,7 +222,8 @@
       "https://i.postimg.cc/yYddJm68/IMG-20220518-161620.jpg"
     ],
     "is_new": true,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 16,
@@ -222,7 +238,8 @@
       "https://i.postimg.cc/MTgSvQ9v/IMG-20220521-131946.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 17,
@@ -235,7 +252,8 @@
       "https://i.postimg.cc/3RgpjCLb/IMG-20220602-233053.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 18,
@@ -248,7 +266,8 @@
       "https://i.postimg.cc/bwBQqvDL/IMG-20220602-233143.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 19,
@@ -263,7 +282,8 @@
       "https://i.postimg.cc/nrSLqXtP/IMG-20220602-234630.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 20,
@@ -279,7 +299,8 @@
       "https://i.postimg.cc/t4KNhTqJ/IMG-20220521-155323.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
   },
   {
     "id": 21,
@@ -293,6 +314,74 @@
       "https://i.postimg.cc/QdynvhXZ/IMG-20220518-161526.jpg"
     ],
     "is_new": false,
-    "is_sold": false
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 22,
+    "name": "Hidrolavadora",
+    "thumbnail": "https://d26lpennugtm8s.cloudfront.net/stores/698/105/products/151-13450fc1a2c558f40815197618301507-480-0.jpg",
+    "description": "Hidrolavadora Karcher K2 Dakar 110 Bar 1200w\n- Presión: 110 bar, Caudal de agua: 280 l/h, Potencia: 1200 w\n- Accesorios incluidos: pistola de alta presión,manguera de alta presión de 4 m, lanza Vario Power, lanza turbo, cepillo de lavado y boquilla de espuma",
+    "price": 19000,
+    "images": [],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": false
+  },
+  {
+    "id": 23,
+    "name": "Nike Air Max",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_668144-MLA49660502384_042022-F.webp",
+    "description": "",
+    "price": 13000,
+    "images": [],
+    "is_new": false,
+    "is_sold": true,
+    "is_visible": true
+  },
+  {
+    "id": 24,
+    "name": "Panel Calefactor",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_976829-MLA49490832143_032022-F.webp",
+    "description": "",
+    "price": 6000,
+    "images": [],
+    "is_new": false,
+    "is_sold": true,
+    "is_visible": true
+  },
+  {
+    "id": 25,
+    "name": "Dos ménsulas de 42cm",
+    "thumbnail": "https://i.postimg.cc/rmjFYyKG/IMG-20220605-193214.jpg",
+    "description": "Dos ménsulas x2 de 42 cm de largo\n- Puede utilizarse como soporte de split de hasta 4500 frigorías\n- Sin uso!",
+    "price": 1500,
+    "images": [
+      "https://i.postimg.cc/rmjFYyKG/IMG-20220605-193214.jpg",
+      "https://i.postimg.cc/mDBgw122/IMG-20220605-193311.jpg",
+      "https://i.postimg.cc/FKjK3VvB/IMG-20220605-193332.jpg",
+      "https://i.postimg.cc/13VX5ZjP/IMG-20220605-194650.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 26,
+    "name": "Microondas",
+    "thumbnail": "https://i.postimg.cc/sx25gD8K/IMG-20220605-201624.jpg",
+    "description": "Microondas Whirlpool Modelo wms20ss\n- Botones táctiles\n- Seis programas configurables\n- Opción para descongelar alimentos\n- Medidas: 45 cm de frente x 24 cm de alto x 30 cm de profundidad",
+    "price": 20000,
+    "images": [
+      "https://i.postimg.cc/sx25gD8K/IMG-20220605-201624.jpg",
+      "https://i.postimg.cc/50bwDmSh/IMG-20220605-201840.jpg",
+      "https://i.postimg.cc/B6px31hX/IMG-20220605-201926.jpg",
+      "https://i.postimg.cc/v8PWSfgK/IMG-20220605-202651.jpg",
+      "https://i.postimg.cc/C56kBpp0/IMG-20220605-203118.jpg",
+      "https://i.postimg.cc/rpS1hHxG/IMG-20220605-203200.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
   }
 ]

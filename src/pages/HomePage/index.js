@@ -27,6 +27,7 @@ function HomePage() {
       </div>
       <ul className="productsContainer">
         {products
+          .filter(product => product.is_visible)
           .filter((product) => {
             if (search === "") {
               return product;
@@ -41,7 +42,7 @@ function HomePage() {
           .sort((productA, productB) =>
             ((productA.is_new && !productB.is_new) ||
               (!productA.is_sold && productB.is_sold)) &&
-            productA.id > productB.id
+              productA.id > productB.id
               ? -1
               : 1
           )
