@@ -31,7 +31,7 @@
 }
 
 .titleWrapper {
-  height: 5rem;
+  height: 5.5rem;
   width: 100vw;
   font-family: 'Oswald', sans-serif;
   text-align: center;
@@ -54,6 +54,13 @@
 .contactText {
 }
 
+.productsAdvise {
+  padding-top: 3rem;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2rem;
+}
+
 .productsContainer {
   height: 100%;
   width: 100%;
@@ -62,7 +69,7 @@
   align-items: center;
   flex-wrap: wrap;
   overflow: hidden;
-  padding-top: 2rem;
+  padding-top: 0.5rem;
 }
 
 .productContainer {

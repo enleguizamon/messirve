@@ -22,6 +22,9 @@ function HomePage() {
         <p className="title">SE VENDE</p>
         <p className="contactText">Entregas a coordinar</p>
       </div>
+      <div className="productsAdvise">
+        Todas las semanas subimos artículos nuevos
+      </div>
       <ul className="productsContainer">
         {products
           .filter((product) => {

@@ -7,7 +7,7 @@ function Navbar(props) {
       <p className="contactUs">Contactanos</p>
       <a
         className="mobilePhone"
-        href="https://wa.me/5491551163638?text=Hola Eli!Me%20interesa%20un%20artículo%20a%20la%20venta"
+        href="https://wa.me/5491551163638?text=Hola Eli! Me%20interesa%20un%20artículo%20a%20la%20venta"
       >
         Eli 📞
       </a>
