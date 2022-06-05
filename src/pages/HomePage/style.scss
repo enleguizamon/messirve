@@ -11,20 +11,20 @@
 .inputContainer {
   background-color: rgb(193, 223, 244);
   width: 100vw;
-padding: 0.6rem 1rem 0rem 1rem;
-display: flex;
-justify-content: center;
+  padding: 1rem 1rem 0rem 1rem;
+  display: flex;
+  justify-content: center;
 }
 
 .search {
-  height: 1.5rem;
+  height: 1.9rem;
 }
 
 .homeContainer {
   background-color: #d7d5d5;
   width: 100vw;
   min-height: 100vh;
-  margin-top: -1rem;
+  margin-top: 4.7rem;
   padding-right: 1rem;
   display: flex;
   flex-direction: column;
@@ -36,8 +36,8 @@ justify-content: center;
   font-family: 'Oswald', sans-serif;
   text-align: center;
   background-color: rgb(193, 223, 244);
-  padding: 0rem 0.5rem;
   margin-bottom: -2rem;
+  padding-bottom: 0.3rem;
   display: flex;
   justify-content: center;
   align-items: center;  
@@ -46,8 +46,8 @@ justify-content: center;
 
 .title {
   font-weight:700;
-  font-size: 2.3rem;
-  margin-bottom: -1.3rem;
+  font-size: 2.5rem;
+  margin-bottom: -1.6rem;
   margin-top: 1rem;
 }
 
@@ -150,17 +150,17 @@ box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
 
 .isSold {
   background-color: #8d8d8d;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .sold {
-  border: solid rgb(180, 5, 5);
+  border: solid 1px rgb(180, 5, 5);
   color: rgb(180, 5, 5);
   background-color: rgba(255, 255, 255, 0.345);
   width: 17rem;
   position: absolute;
   text-align: center;
-  
+  border-radius: 0.1rem;
 }
 
 .imageContainer {

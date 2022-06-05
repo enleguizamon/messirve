@@ -15,7 +15,7 @@ function HomePage() {
             setSearch(event.target.value);
           }}
           className="search"
-          placeholder="Buscar..."
+          placeholder="🔍 Buscar..."
         />
       </div>
       <div className="titleWrapper">
