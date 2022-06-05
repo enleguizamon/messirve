@@ -24,7 +24,8 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_792743-MLA49800717176_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_609768-MLA49800671504_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_839260-MLA49800630808_042022-F.webp",
-      "https://http2.mlstatic.com/D_NQ_NP_2X_951843-MLA49800731063_042022-F.webp"
+      "https://http2.mlstatic.com/D_NQ_NP_2X_951843-MLA49800731063_042022-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_905400-MLA49800660614_042022-F.webp"
     ],
     "is_new": false,
     "is_sold": false
@@ -153,7 +154,7 @@
   },
   {
     "id": 11,
-    "name": "Timbre Inalámbrico Digital",
+    "name": "Timbre Inalámbrico",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_828920-MLA49800609210_042022-F.webp",
     "description": "",
     "price": 900,
@@ -219,6 +220,77 @@
       "https://i.postimg.cc/G3sR6XpY/IMG-20220521-131755.jpg",
       "https://i.postimg.cc/8CKDg3Wd/IMG-20220521-131913.jpg",
       "https://i.postimg.cc/MTgSvQ9v/IMG-20220521-131946.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false
+  },
+  {
+    "id": 17,
+    "name": "Set de pesas de 2kg",
+    "thumbnail": "https://i.postimg.cc/KjxT0kwc/IMG-20220602-232953.jpg",
+    "description": "Dos mancuernas de PVC de peso fijo de 2 kilogramos cada una. El precio es por las dos mancuernas",
+    "price": 1200,
+    "images": [
+      "https://i.postimg.cc/KjxT0kwc/IMG-20220602-232953.jpg",
+      "https://i.postimg.cc/3RgpjCLb/IMG-20220602-233053.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false
+  },
+  {
+    "id": 18,
+    "name": "Set de pesas de 1kg",
+    "thumbnail": "https://i.postimg.cc/G20GsSjy/IMG-20220602-233122.jpg",
+    "description": "Dos mancuernas de PVC de peso fijo de 1 kilogramo cada una. El precio es por las dos mancuernas",
+    "price": 600,
+    "images": [
+      "https://i.postimg.cc/G20GsSjy/IMG-20220602-233122.jpg",
+      "https://i.postimg.cc/bwBQqvDL/IMG-20220602-233143.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false
+  },
+  {
+    "id": 19,
+    "name": "Pava eléctrica",
+    "thumbnail": "https://static.cotodigital3.com.ar/sitios/fotos/full/00484200/00484210.jpg?3.0.136l",
+    "description": "Pava eléctrica Top House Modelo Ksk012b\n- Capacidad 1.7 litros\n- Acero inoxidable\n- Con corte automático y nivel de agua",
+    "price": 2500,
+    "images": [
+      "https://i.postimg.cc/QdTMWNYf/IMG-20220602-234348.jpg",
+      "https://i.postimg.cc/L67XXgDq/IMG-20220602-234447.jpg",
+      "https://i.postimg.cc/02rjP0YR/IMG-20220602-234508.jpg",
+      "https://i.postimg.cc/nrSLqXtP/IMG-20220602-234630.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false
+  },
+  {
+    "id": 20,
+    "name": "Mesa rack TV",
+    "thumbnail": "https://i.postimg.cc/VvZj5sZY/IMG-20220521-155029.jpg",
+    "description": "Mesa de TV laqueado blanco.\n- 180 cm largo x 35 cm profundidad x 73 cm alto",
+    "price": "20000",
+    "images": [
+      "https://i.postimg.cc/qqvsk6Lb/IMG-20220521-155051.jpg",
+      "https://i.postimg.cc/nzZKPPQt/IMG-20220521-155127.jpg",
+      "https://i.postimg.cc/4d5vkQzH/IMG-20220521-155152.jpg",
+      "https://i.postimg.cc/43pbwgy5/IMG-20220521-155245.jpg",
+      "https://i.postimg.cc/t4KNhTqJ/IMG-20220521-155323.jpg"
+    ],
+    "is_new": false,
+    "is_sold": false
+  },
+  {
+    "id": 21,
+    "name": "Cubre sommier",
+    "thumbnail": "https://i.postimg.cc/SKYth3s2/IMG-20220518-155659.jpg",
+    "description": "Cubre sommier de algodón, falda de lino\n- Color natural\n- 145 cm largo x 190 cm profundidad x 33 cm de alto (falda)",
+    "price": 1000,
+    "images": [
+      "https://i.postimg.cc/SKYth3s2/IMG-20220518-155659.jpg",
+      "https://i.postimg.cc/Cx1Qvzp4/IMG-20220518-161505.jpg",
+      "https://i.postimg.cc/QdynvhXZ/IMG-20220518-161526.jpg"
     ],
     "is_new": false,
     "is_sold": false
