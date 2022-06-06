@@ -154,7 +154,7 @@
   },
   {
     "id": 10,
-    "name": "Sandwichera Eléctrica",
+    "name": "Sandwichera",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_854172-MLA49800590175_042022-F.webp",
     "description": "",
     "price": 1500,
@@ -176,7 +176,7 @@
   },
   {
     "id": 12,
-    "name": "Guillotina autoafilable",
+    "name": "Guillotina",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_879404-MLA49800315648_042022-F.webp",
     "description": "",
     "price": 2800,
@@ -187,7 +187,7 @@
   },
   {
     "id": 13,
-    "name": "Zapatillas Nike Air Max",
+    "name": "Nike Air Max",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_980173-MLA49660388366_042022-F.webp",
     "description": "",
     "price": 12000,
@@ -243,7 +243,7 @@
   },
   {
     "id": 17,
-    "name": "Set de pesas de 2kg",
+    "name": "Pesas de 2kg x2",
     "thumbnail": "https://i.postimg.cc/KjxT0kwc/IMG-20220602-232953.jpg",
     "description": "Dos mancuernas de PVC de peso fijo de 2 kilogramos cada una. El precio es por las dos mancuernas",
     "price": 1200,
@@ -257,7 +257,7 @@
   },
   {
     "id": 18,
-    "name": "Set de pesas de 1kg",
+    "name": "Pesas de 1kg x2",
     "thumbnail": "https://i.postimg.cc/G20GsSjy/IMG-20220602-233122.jpg",
     "description": "Dos mancuernas de PVC de peso fijo de 1 kilogramo cada una. El precio es por las dos mancuernas",
     "price": 600,
@@ -352,7 +352,7 @@
   },
   {
     "id": 25,
-    "name": "Dos ménsulas de 42cm",
+    "name": "Ménsulas de 42cm",
     "thumbnail": "https://i.postimg.cc/rmjFYyKG/IMG-20220605-193214.jpg",
     "description": "Dos ménsulas x2 de 42 cm de largo\n- Puede utilizarse como soporte de split de hasta 4500 frigorías\n- Sin uso!",
     "price": 1500,
