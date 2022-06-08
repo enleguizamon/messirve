@@ -237,8 +237,8 @@
       "https://i.postimg.cc/8CKDg3Wd/IMG-20220521-131913.jpg",
       "https://i.postimg.cc/MTgSvQ9v/IMG-20220521-131946.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -298,7 +298,7 @@
       "https://i.postimg.cc/43pbwgy5/IMG-20220521-155245.jpg",
       "https://i.postimg.cc/t4KNhTqJ/IMG-20220521-155323.jpg"
     ],
-    "is_new": false,
+    "is_new": true,
     "is_sold": false,
     "is_visible": true
   },
