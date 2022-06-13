@@ -45,7 +45,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_968985-MLA49821869506_052022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -381,7 +381,7 @@
       "https://i.postimg.cc/rpS1hHxG/IMG-20220605-203200.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   }
 ]
