@@ -383,5 +383,38 @@
     "is_new": false,
     "is_sold": true,
     "is_visible": true
+  },
+  {
+    "id": 27,
+    "name": "Fuentes de cocina",
+    "thumbnail": "https://i.postimg.cc/hPLDfrRS/IMG-20220613-203713.jpg",
+    "description": "Varias fuentes de cocina\n- Asadera fuente para horno Pyrex, rectangular, 33,5 cm de largo x 22,6 cm de ancho x 5 cm de alto (fotos 1 y 2): $1500\n- Asadera fuente para horno Pyrex, cuadrada, 20,5 cm de largo x 20,5 cm de ancho x 5,3cm de alto (fotos 3 y 4): $1200\n- Asadera fuente para horno Pyrex, rectangular, 22,3 cm de largo x 17,3 cm de ancho x 6,1 cm de alto (fotos 5 y 6): $1000\n- Fuente de vidrio templado Marynex, ovalada, 30,3 cm de largo x 20,3 cm de ancho (fotos 7 y 8): $800\n",
+    "price": 800,
+    "images": [
+      "https://i.postimg.cc/LXgRRkVF/IMG-20220613-203545.jpg",
+      "https://i.postimg.cc/NjbQxj0S/IMG-20220613-203615.jpg",
+      "https://i.postimg.cc/BnhGK7YG/IMG-20220613-202819.jpg",
+      "https://i.postimg.cc/g2cWrbKD/IMG-20220613-202850.jpg",
+      "https://i.postimg.cc/zvnrHJMd/IMG-20220613-203128.jpg",
+      "https://i.postimg.cc/xT3Q01L8/IMG-20220613-205008.jpg",
+      "https://i.postimg.cc/05J2qvtK/IMG-20220613-203914.jpg",
+      "https://i.postimg.cc/V6JsvPmT/IMG-20220613-204018.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 28,
+    "name": "Heladera Kohinoor",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_962597-MLA40290323660_122019-F.webp",
+    "description": "",
+    "price": 0,
+    "images": [
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": false,
+    "coming_soon": true
   }
 ]
