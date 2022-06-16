@@ -108,7 +108,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_702050-MLA49800397357_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -125,7 +125,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_906036-MLA49800586136_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -222,7 +222,7 @@
       "https://i.postimg.cc/yYddJm68/IMG-20220518-161620.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -252,7 +252,7 @@
       "https://i.postimg.cc/3RgpjCLb/IMG-20220602-233053.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -266,7 +266,7 @@
       "https://i.postimg.cc/bwBQqvDL/IMG-20220602-233143.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -410,8 +410,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_962597-MLA40290323660_122019-F.webp",
     "description": "",
     "price": 0,
-    "images": [
-    ],
+    "images": [],
     "is_new": false,
     "is_sold": false,
     "is_visible": false,
