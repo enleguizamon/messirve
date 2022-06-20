@@ -27,7 +27,7 @@ function HomePage() {
       </div>
       <ul className="productsContainer">
         {products
-          .filter(product => product.is_visible)
+          .filter((product) => product.is_visible)
           .filter((product) => {
             if (search === "") {
               return product;
@@ -42,7 +42,7 @@ function HomePage() {
           .sort((productA, productB) =>
             ((productA.is_new && !productB.is_new) ||
               (!productA.is_sold && productB.is_sold)) &&
-              productA.id > productB.id
+            productA.id > productB.id
               ? -1
               : 1
           )
@@ -69,6 +69,22 @@ function HomePage() {
                   </Link>
                 </li>
               );
+            } else if (product.coming_soon) {
+              return (
+                <li
+                  key={key}
+                  className="productContainer soonContainer"
+                  ontouchstart=""
+                >
+                  <p className="soonTitle">PRÓXIMAMENTE</p>
+                  <div className="imageContainer soonImage">
+                    <img src={product.thumbnail} className="image" alt="" />
+                  </div>
+                  <div className="cardDesc">
+                    <p className="name">{product.name}</p>
+                  </div>
+                </li>
+              );
             } else if (!product.is_sold) {
               return (
                 <li key={key} className="productContainer" ontouchstart="">
@@ -83,7 +99,7 @@ function HomePage() {
                   </Link>
                 </li>
               );
-            } else {
+            } else if (product.is_sold) {
               return (
                 <li
                   key={key}

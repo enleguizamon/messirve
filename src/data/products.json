@@ -35,7 +35,7 @@
   {
     "id": 2,
     "name": "Molinillo de café",
-    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_828393-MLA31041689631_062019-F.webp",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_670479-MLA31097861196_062019-O.jpg",
     "description": "Molinillo de café Delonghi KG-40\n- Potencia de 170 watts\n- Capacidad de 90 grs\n- Cuchillas de molienda de acero inoxidable\n- Contenedor de café de acrílico transparente y extraíble\n- Cepillo para limpieza\n- Sistema \"pulse para moler\": tapa con pulsador on/off\n- Depósito para el café extraíble",
     "price": 5000,
     "images": [
@@ -298,14 +298,14 @@
       "https://i.postimg.cc/43pbwgy5/IMG-20220521-155245.jpg",
       "https://i.postimg.cc/t4KNhTqJ/IMG-20220521-155323.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
   {
     "id": 21,
     "name": "Cubre sommier",
-    "thumbnail": "https://i.postimg.cc/SKYth3s2/IMG-20220518-155659.jpg",
+    "thumbnail": "https://arredo.vteximg.com.br/arquivos/ids/225419-800-800/12031U00011-KC_0.jpg?v=637642907470670000",
     "description": "Cubre sommier de algodón, falda de lino\n- Color natural\n- 145 cm largo x 190 cm profundidad x 33 cm de alto (falda)",
     "price": 1000,
     "images": [
@@ -386,6 +386,44 @@
   },
   {
     "id": 27,
+    "name": "TV Samsung 48''",
+    "thumbnail": "https://i.postimg.cc/Y0kMTmym/IMG-20220618-162619.jpg",
+    "description": "Smart TV Samsung de 48 pulgadas (modelo un48h6400agcfv)\n - Full HD\n- Soporta películas 3D\n- Incluye 4 anteojos 3D\n- Incluye control remoto original\n- 4 conexiones HDMI, 3 conexiones USB\n- Conexión Wifi y Ethernet (por cable)\n- Base cromada\n- Medidas con la base: 70.6 cm (alto) x 108.7 cm (ancho) x 30.7 cm (profundidad)\n- Peso: 13 kg\n - En excelente estado",
+    "price": 60000,
+    "images": [
+      "https://i.postimg.cc/4NQm4X6g/IMG-20220618-161503.jpg",
+      "https://i.postimg.cc/Ss9xB4SH/IMG-20220618-161707.jpg",
+      "https://i.postimg.cc/SRrk4Nw1/IMG-20220618-162422.jpg",
+      "https://i.postimg.cc/t4mR7J7L/IMG-20220618-162759.jpg",
+      "https://i.postimg.cc/jdcS0ZTq/IMG-20220618-162816.jpg",
+      "https://i.postimg.cc/JnFm5gMh/IMG-20220620-150010.jpg",
+      "https://i.postimg.cc/23RDPZqR/IMG-20220620-150116.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 28,
+    "name": "Aspiradoora robot",
+    "thumbnail": "https://i.postimg.cc/66L9nYyV/IMG-20220618-182841.jpg",
+    "description": "Aspiradora robot Roomba 960\n- Se recarga automáticamente según sea necesario y luego continúa la limpieza hasta que el trabajo esté terminado\n- Compatible con Google Assistant y Alexa. Se puede programar los días y horarios para que trabaje la aspiradora usando la App iRobot HOME\n - Viene incluido una ''pared'' virtual para colocar en lugares donde la aspiradora no debería limpiar\n - Conexión Wi-Fi, navegación inteligente, tecnología patentada Dirt Detect™, cepillo para barrido de bordes, cabezal de limpieza de ajuste automático, funciona en alfombras y pisos duros\n- La aspiradora crea mapas de los alrededores para limpiar todos los niveles del hogar, alrededor de objetos y debajo de los muebles.\n- Excelente para casas con mascotas. El sistema de limpieza de tres fases de primera calidad limpia la suciedad y el pelo de las mascotas que se puede ver, así como los alérgenos y polvo que no se ve.\n- Los dos cepillos de goma para múltiples superficies se ajustan y flexionan para mantenerse en contacto constante con alfombras y suelos duros.\n - El filtro de alta eficiencia atrapa el 99 % de alérgenos presentes en gatos y perros.\n - Viene con 5 repuestos de filtros, 2 cepillos laterales, 2 pares de rodillos 1 un cepillo manual de limpieza\n- Incluye manual original\n- En excelente estado!",
+    "price": 87000,
+    "images": [
+      "https://i.postimg.cc/bNyqTkt7/IMG-20220618-182944.jpg",
+      "https://i.postimg.cc/vB5GPvXs/IMG-20220618-182305.jpg",
+      "https://i.postimg.cc/DyxnY0Q8/IMG-20220618-182613.jpg",
+      "https://i.postimg.cc/7PGMMWkJ/IMG-20220620-152746.jpg",
+      "https://i.postimg.cc/Vsx97WfG/IMG-20220620-152821.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 29,
     "name": "Fuentes de cocina",
     "thumbnail": "https://i.postimg.cc/hPLDfrRS/IMG-20220613-203713.jpg",
     "description": "Varias fuentes de cocina\n- Asadera fuente para horno Pyrex, rectangular, 33,5 cm de largo x 22,6 cm de ancho x 5 cm de alto (fotos 1 y 2): $1500\n- Asadera fuente para horno Pyrex, cuadrada, 20,5 cm de largo x 20,5 cm de ancho x 5,3cm de alto (fotos 3 y 4): $1200\n- Asadera fuente para horno Pyrex, rectangular, 22,3 cm de largo x 17,3 cm de ancho x 6,1 cm de alto (fotos 5 y 6): $1000\n- Fuente de vidrio templado Marynex, ovalada, 30,3 cm de largo x 20,3 cm de ancho (fotos 7 y 8): $800\n",
@@ -405,7 +443,40 @@
     "is_visible": true
   },
   {
-    "id": 28,
+    "id": 30,
+    "name": "Copas X2",
+    "thumbnail": "https://i.postimg.cc/CxMdz97f/IMG-20220618-145711.jpg",
+    "description": "Juego de dos copas de vino",
+    "price": 700,
+    "images": [
+      "https://i.postimg.cc/5t0HkDFM/IMG-20220618-145609.jpg",
+      "https://i.postimg.cc/mD1PTMwX/IMG-20220618-145634.jpg",
+      "https://i.postimg.cc/CxMdz97f/IMG-20220618-145711.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 31,
+    "name": "Copas X2",
+    "thumbnail": "https://i.postimg.cc/fy4JyLqw/IMG-20220618-150734.jpg",
+    "description": "Juego de dos copas",
+    "price": 500,
+    "images": [
+      "https://i.postimg.cc/T3k1mQNN/IMG-20220618-150730.jpg",
+      "https://i.postimg.cc/fy4JyLqw/IMG-20220618-150734.jpg",
+      "https://i.postimg.cc/1zftK6Lm/IMG-20220618-150846.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+
+  {
+    "id": 32,
     "name": "Heladera Kohinoor",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_962597-MLA40290323660_122019-F.webp",
     "description": "",
@@ -413,7 +484,19 @@
     "images": [],
     "is_new": false,
     "is_sold": false,
-    "is_visible": false,
+    "is_visible": true,
+    "coming_soon": true
+  },
+  {
+    "id": 33,
+    "name": "Lavarropas lg",
+    "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb2532.jpg?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+    "description": "",
+    "price": 0,
+    "images": [],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true,
     "coming_soon": true
   }
 ]
