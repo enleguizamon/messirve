@@ -426,7 +426,7 @@
     "id": 29,
     "name": "Fuentes de cocina",
     "thumbnail": "https://i.postimg.cc/hPLDfrRS/IMG-20220613-203713.jpg",
-    "description": "Varias fuentes de cocina\n- Asadera fuente para horno Pyrex, rectangular, 33,5 cm de largo x 22,6 cm de ancho x 5 cm de alto (fotos 1 y 2): $1500\n- Asadera fuente para horno Pyrex, cuadrada, 20,5 cm de largo x 20,5 cm de ancho x 5,3cm de alto (fotos 3 y 4): $1200\n- Asadera fuente para horno Pyrex, rectangular, 22,3 cm de largo x 17,3 cm de ancho x 6,1 cm de alto (fotos 5 y 6): $1000\n- Fuente de vidrio templado Marynex, ovalada, 30,3 cm de largo x 20,3 cm de ancho (fotos 7 y 8): $800\n",
+    "description": "Varias fuentes de cocina\n- Asadera fuente para horno Pyrex, rectangular, 33,5 cm de largo x 22,6 cm de ancho x 5 cm de alto (fotos 1 y 2): $1500\n- Asadera fuente para horno Pyrex, cuadrada, 20,5 cm de largo x 20,5 cm de ancho x 5,3cm de alto (fotos 3 y 4): $1200 VENDIDA\n- Asadera fuente para horno Pyrex, rectangular, 22,3 cm de largo x 17,3 cm de ancho x 6,1 cm de alto (fotos 5 y 6): $1000 VENDIDA\n- Fuente de vidrio templado Marynex, ovalada, 30,3 cm de largo x 20,3 cm de ancho (fotos 7 y 8): $800\n",
     "price": 800,
     "images": [
       "https://i.postimg.cc/LXgRRkVF/IMG-20220613-203545.jpg",
@@ -453,8 +453,8 @@
       "https://i.postimg.cc/mD1PTMwX/IMG-20220618-145634.jpg",
       "https://i.postimg.cc/CxMdz97f/IMG-20220618-145711.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -469,8 +469,8 @@
       "https://i.postimg.cc/fy4JyLqw/IMG-20220618-150734.jpg",
       "https://i.postimg.cc/1zftK6Lm/IMG-20220618-150846.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
