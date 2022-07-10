@@ -70,7 +70,7 @@
     "name": "Router",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_728491-MLA49800396011_042022-F.webp",
     "description": "Router Linksys EA2700\n- Dual Band\n- 300 Mbps + 300 Mbps de velocidad (Bandas 2.4 y 5 Ghz)\n- 4 conexiones Gigabit Ethernet\n- Excelente estado\n- Incluye cable de red listo para conectar a tu módem",
-    "price": 1500,
+    "price": 1200,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_948265-MLA49800315569_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_950782-MLA49800344357_042022-F.webp"
@@ -84,7 +84,7 @@
     "name": "Parlantes 5.1",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_937729-MLA49800323323_042022-F.webp",
     "description": "Parlantes Logitech X-540 5.1 con Subwoofer - En excelente estado\nContiene 5 parlantes satélites + 1 subwoofer central\nSirve para computadoras con placa de sonido o para consolas de juego, pero para este caso requiere un adaptador especial que no viene incluido. No es compatible con TV.\n- Modo matrix: convierte sonidos estéreo a sonido envolvente (muy útil para consolas de juegos)\n- Control de bajos\n- Soporte Dolby Digital (en caso de que la placa de sonido sea compatible)\n- Viene preparado para montar los parlantes a la pared.\nEspecificaciones técnicas:\n- Potencia RMS total: 70 W reales (RMS)\n- Bocinas satélite: 45 W reales (RMS) (2 x 7,4 W frontales; 15,4 W central; 2 x 7,4 W posteriores) Subwoofer: 25 vatios reales (RMS)\n- Potencia total: 140 W\n- Respuesta de frecuencia: 40 Hz - 20 kHz\n- Transductores:\nParlantes satélite: 2 transductores de 5 cm por bocina\nSubwoofer: Transductor con puerto de 13,5 cm\n-\nDimensiones de las bocinas (Alto x Ancho x Profundidad):\nParlantes satélite: 21,3 cm x 8,1 cm x 12,7 cm\nCanal central: 19,8 cm x 12,1 cm x 9,5 cm\nSubwoofer: 28,6 cm x 16,5 cm x 24,8 cm",
-    "price": 25000,
+    "price": 24000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_828190-MLA49800280548_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_720684-MLA49800317385_042022-F.webp",
@@ -138,7 +138,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_818922-MLA49800507667_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -314,7 +314,7 @@
       "https://i.postimg.cc/QdynvhXZ/IMG-20220518-161526.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -399,7 +399,7 @@
       "https://i.postimg.cc/JnFm5gMh/IMG-20220620-150010.jpg",
       "https://i.postimg.cc/23RDPZqR/IMG-20220620-150116.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -409,7 +409,7 @@
     "name": "Aspiradora",
     "thumbnail": "https://i.postimg.cc/66L9nYyV/IMG-20220618-182841.jpg",
     "description": "Aspiradora robot Roomba 960\n- Se recarga automáticamente según sea necesario\n- Incluye base de carga\n- Compatible con Google Assistant y Alexa. Se puede programar los días y horarios para que trabaje la aspiradora usando la App iRobot HOME\n - Viene incluida una ''pared'' virtual para colocar en lugares donde la aspiradora no debería limpiar\n - Conexión Wi-Fi, navegación inteligente, tecnología patentada Dirt Detect™, cepillo para barrido de bordes, cabezal de limpieza de ajuste automático, funciona en alfombras y pisos duros\n- La aspiradora crea mapas de los alrededores para limpiar todos los niveles del hogar, alrededor de objetos y debajo de los muebles.\n- Excelente para casas con mascotas. El sistema de limpieza de tres fases de primera calidad limpia la suciedad y el pelo de las mascotas que se puede ver, así como los alérgenos y polvo que no se ve.\n- Los dos cepillos de goma para múltiples superficies se ajustan y flexionan para mantenerse en contacto constante con alfombras y suelos duros.\n - El filtro de alta eficiencia atrapa el 99 % de alérgenos presentes en gatos y perros.\n - Viene con 5 repuestos de filtros, 2 cepillos laterales, 2 pares de rodillos 1 un cepillo manual de limpieza\n- Incluye manual original\n- En excelente estado!",
-    "price": 87000,
+    "price": 86000,
     "images": [
       "https://i.postimg.cc/bNyqTkt7/IMG-20220618-182944.jpg",
       "https://i.postimg.cc/vB5GPvXs/IMG-20220618-182305.jpg",
@@ -417,7 +417,7 @@
       "https://i.postimg.cc/7PGMMWkJ/IMG-20220620-152746.jpg",
       "https://i.postimg.cc/Vsx97WfG/IMG-20220620-152821.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -438,7 +438,7 @@
       "https://i.postimg.cc/05J2qvtK/IMG-20220613-203914.jpg",
       "https://i.postimg.cc/V6JsvPmT/IMG-20220613-204018.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true
   },
@@ -522,5 +522,37 @@
     "is_sold": false,
     "is_visible": false,
     "coming_soon": true
+  },
+  {
+    "id": 36,
+    "name": "Set cuchillos",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_889741-MLA31637911961_072019-F.webp",
+    "description": "Set de cuchillos y tijera Tramontina\nCon taco de madera\nContiene: 1 Cuchillo de legumbres, 1 Cuchillo para carne, 1 Cuchillo serrucho, 1 Cuchillo cocina y 1 Tijera",
+    "price": 6000,
+    "images": ["https://i.postimg.cc/bwM6CmdG/IMG-20220710-170041.jpg",
+    "https://i.postimg.cc/kGnw6ZYH/IMG-20220710-170106.jpg",
+    "https://i.postimg.cc/505nt1gv/IMG-20220710-170116.jpg",
+    "https://i.postimg.cc/d0y5zGT5/IMG-20220710-170132.jpg",
+    "https://i.postimg.cc/qRH10gs4/IMG-20220710-170143.jpg",
+    "https://i.postimg.cc/VvDgjR3k/IMG-20220710-170151.jpg"
+  ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 37,
+    "name": "Set Taladro",
+    "thumbnail": "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg",
+    "description": "Taladro 500w + Accesorios",
+    "price": 10000,
+    "images": ["https://i.postimg.cc/WbZ6dJ2K/IMG-20220710-171210.jpg",
+    "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg"
+  ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
   }
 ]
