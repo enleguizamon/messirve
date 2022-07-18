@@ -20,7 +20,7 @@
     "name": "Mesa venecita",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_905400-MLA49800660614_042022-F.webp",
     "description": "Mesa venecitas con patas de hierror negras\n- 60 cm de diámetro\n- 70 cm de alto\n- Apto exterior",
-    "price": 9000,
+    "price": 12000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_792743-MLA49800717176_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_609768-MLA49800671504_042022-F.webp",
@@ -400,7 +400,7 @@
       "https://i.postimg.cc/23RDPZqR/IMG-20220620-150116.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -439,7 +439,7 @@
       "https://i.postimg.cc/V6JsvPmT/IMG-20220613-204018.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -536,7 +536,7 @@
     "https://i.postimg.cc/qRH10gs4/IMG-20220710-170143.jpg",
     "https://i.postimg.cc/VvDgjR3k/IMG-20220710-170151.jpg"
   ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -550,9 +550,69 @@
     "images": ["https://i.postimg.cc/WbZ6dJ2K/IMG-20220710-171210.jpg",
     "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg"
   ],
+    "is_new": false,
+    "is_sold": true,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 38,
+    "name": "Reloj mujer",
+    "thumbnail": "https://i.postimg.cc/Bvj4XM9j/IMG-20220717-180605.jpg",
+    "description": "Reloj clásico  Paddle Watch de mujer\n- Material: acero\n- Resistencia al agua: 3ATM",
+    "price": 6000,
+    "images": ["https://i.postimg.cc/YqqtgpQG/IMG-20220717-171414.jpg",
+    "https://i.postimg.cc/bwZ8C3Cq/IMG-20220717-171528.jpg"
+  ],
     "is_new": true,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
+  },
+  {
+    "id": 39,
+    "name": "Reloj hombre",
+    "thumbnail": "https://i.postimg.cc/vZqGYCjR/IMG-20220717-180124.jpg",
+    "description": "Reloj clásico Paddle Watch de hombre\n- Material: acero inoxidable\n- Resistencia al agua: 30 metros\n",
+    "price": 8000,
+    "images": [
+    "https://i.postimg.cc/fT2Df6vH/IMG-20220717-171221.jpg",
+    "https://i.postimg.cc/YqqtgpQG/IMG-20220717-171414.jpg",
+    "https://i.postimg.cc/bwZ8C3Cq/IMG-20220717-171528.jpg"
+  ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 40,
+    "name": "AC LG",
+    "thumbnail": "https://i.postimg.cc/Y9FV0NQ7/IMG-20220710-172238.jpg",
+    "description": "Aire acondicionado LG de 2200 frigorías\n- 10 años de antigüedad\n- Necesita reparación (funciona solo calor)",
+    "price": 5000,
+    "images": ["https://i.postimg.cc/43PVx4Gf/IMG-20220710-171833.jpg",
+    "https://i.postimg.cc/gjC6TnVD/IMG-20220710-172058.jpg",
+    "https://i.postimg.cc/631ZCHTF/IMG-20220710-172148.jpg",
+    "https://i.postimg.cc/qqh3w83q/IMG-20220710-172238.jpg"
+  ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 41,
+    "name": "AC Surrey",
+    "thumbnail": "https://i.postimg.cc/vBF5v5x3/1658100399169.jpg",
+    "description": "Aire acondicionado Surrey de 4500 frigorías\n- Modelo INVERTER SMART 5240W FC 553ICQ\n- 3 años de antigüedad\n- Eficiencia energética A\n- Frío, calor\n- En perfecto estado!",
+    "price": 150000,
+    "images": ["https://i.postimg.cc/6QGdRMq8/1658100399151.jpg",
+    "https://i.postimg.cc/rF3sWMr9/IMG-20220717-195613.jpg",
+    "https://i.postimg.cc/zfBqPQKf/IMG-20220717-195707.jpg"],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": true
   }
 ]
