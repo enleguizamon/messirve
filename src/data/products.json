@@ -29,7 +29,7 @@
       "https://http2.mlstatic.com/D_NQ_NP_2X_905400-MLA49800660614_042022-F.webp"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -290,7 +290,7 @@
     "name": "Mesa rack TV",
     "thumbnail": "https://i.postimg.cc/VvZj5sZY/IMG-20220521-155029.jpg",
     "description": "Mesa de TV laqueado blanco.\n- 180 cm largo x 35 cm profundidad x 73 cm alto",
-    "price": "20000",
+    "price": "22000",
     "images": [
       "https://i.postimg.cc/qqvsk6Lb/IMG-20220521-155051.jpg",
       "https://i.postimg.cc/nzZKPPQt/IMG-20220521-155127.jpg",
@@ -595,8 +595,8 @@
     "https://i.postimg.cc/631ZCHTF/IMG-20220710-172148.jpg",
     "https://i.postimg.cc/qqh3w83q/IMG-20220710-172238.jpg"
   ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
