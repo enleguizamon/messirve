@@ -612,6 +612,18 @@
     "is_new": true,
     "is_sold": false,
     "is_visible": true,
-    "coming_soon": true
+    "coming_soon": false
+  },
+  {
+    "id": 42,
+    "name": "Cable puente auto",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821225-MLA31610648673_072019-O.webp",
+    "description": "Cable de baterías para hacer puente, reforzado en goma\n- Dos pares de pinzas o (cocodrilos)\n- 600 amperes apto para autos, camionetas\n- Estuche organizador con cierre\n- Largo del cable: 2.50 mts\n- Estos cables permiten arrancar el vehículo cuando tiene algún problema eléctrico o la batería se daña o se agota.",
+    "price": 1800,
+    "images": ["https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
   }
 ]
