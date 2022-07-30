@@ -474,7 +474,6 @@
     "is_visible": true,
     "coming_soon": false
   },
-
   {
     "id": 32,
     "name": "Heladera Kohinoor",
@@ -484,7 +483,7 @@
     "images": [],
     "is_new": false,
     "is_sold": false,
-    "is_visible": true,
+    "is_visible": false,
     "coming_soon": true
   },
   {
@@ -496,7 +495,7 @@
     "images": [],
     "is_new": false,
     "is_sold": false,
-    "is_visible": true,
+    "is_visible": false,
     "coming_soon": true
   },
   {
@@ -529,13 +528,14 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_889741-MLA31637911961_072019-F.webp",
     "description": "Set de cuchillos y tijera Tramontina\nCon taco de madera\nContiene: 1 Cuchillo de legumbres, 1 Cuchillo para carne, 1 Cuchillo serrucho, 1 Cuchillo cocina y 1 Tijera",
     "price": 6000,
-    "images": ["https://i.postimg.cc/bwM6CmdG/IMG-20220710-170041.jpg",
-    "https://i.postimg.cc/kGnw6ZYH/IMG-20220710-170106.jpg",
-    "https://i.postimg.cc/505nt1gv/IMG-20220710-170116.jpg",
-    "https://i.postimg.cc/d0y5zGT5/IMG-20220710-170132.jpg",
-    "https://i.postimg.cc/qRH10gs4/IMG-20220710-170143.jpg",
-    "https://i.postimg.cc/VvDgjR3k/IMG-20220710-170151.jpg"
-  ],
+    "images": [
+      "https://i.postimg.cc/bwM6CmdG/IMG-20220710-170041.jpg",
+      "https://i.postimg.cc/kGnw6ZYH/IMG-20220710-170106.jpg",
+      "https://i.postimg.cc/505nt1gv/IMG-20220710-170116.jpg",
+      "https://i.postimg.cc/d0y5zGT5/IMG-20220710-170132.jpg",
+      "https://i.postimg.cc/qRH10gs4/IMG-20220710-170143.jpg",
+      "https://i.postimg.cc/VvDgjR3k/IMG-20220710-170151.jpg"
+    ],
     "is_new": false,
     "is_sold": false,
     "is_visible": true,
@@ -547,9 +547,10 @@
     "thumbnail": "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg",
     "description": "Taladro 500w + Accesorios",
     "price": 10000,
-    "images": ["https://i.postimg.cc/WbZ6dJ2K/IMG-20220710-171210.jpg",
-    "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg"
-  ],
+    "images": [
+      "https://i.postimg.cc/WbZ6dJ2K/IMG-20220710-171210.jpg",
+      "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg"
+    ],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -561,10 +562,11 @@
     "thumbnail": "https://i.postimg.cc/Bvj4XM9j/IMG-20220717-180605.jpg",
     "description": "Reloj clásico  Paddle Watch de mujer\n- Material: acero\n- Resistencia al agua: 3ATM",
     "price": 6000,
-    "images": ["https://i.postimg.cc/YqqtgpQG/IMG-20220717-171414.jpg",
-    "https://i.postimg.cc/bwZ8C3Cq/IMG-20220717-171528.jpg"
-  ],
-    "is_new": true,
+    "images": [
+      "https://i.postimg.cc/YqqtgpQG/IMG-20220717-171414.jpg",
+      "https://i.postimg.cc/bwZ8C3Cq/IMG-20220717-171528.jpg"
+    ],
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -576,10 +578,10 @@
     "description": "Reloj clásico Paddle Watch de hombre\n- Material: acero inoxidable\n- Resistencia al agua: 30 metros\n",
     "price": 8000,
     "images": [
-    "https://i.postimg.cc/fT2Df6vH/IMG-20220717-171221.jpg",
-    "https://i.postimg.cc/mrFLD8Cm/IMG-20220717-171212.jpg"
-  ],
-    "is_new": true,
+      "https://i.postimg.cc/fT2Df6vH/IMG-20220717-171221.jpg",
+      "https://i.postimg.cc/mrFLD8Cm/IMG-20220717-171212.jpg"
+    ],
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -590,11 +592,12 @@
     "thumbnail": "https://i.postimg.cc/Y9FV0NQ7/IMG-20220710-172238.jpg",
     "description": "Aire acondicionado LG de 2200 frigorías\n- 10 años de antigüedad\n- Necesita reparación (funciona solo calor)",
     "price": 5000,
-    "images": ["https://i.postimg.cc/43PVx4Gf/IMG-20220710-171833.jpg",
-    "https://i.postimg.cc/gjC6TnVD/IMG-20220710-172058.jpg",
-    "https://i.postimg.cc/631ZCHTF/IMG-20220710-172148.jpg",
-    "https://i.postimg.cc/qqh3w83q/IMG-20220710-172238.jpg"
-  ],
+    "images": [
+      "https://i.postimg.cc/43PVx4Gf/IMG-20220710-171833.jpg",
+      "https://i.postimg.cc/gjC6TnVD/IMG-20220710-172058.jpg",
+      "https://i.postimg.cc/631ZCHTF/IMG-20220710-172148.jpg",
+      "https://i.postimg.cc/qqh3w83q/IMG-20220710-172238.jpg"
+    ],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -606,10 +609,12 @@
     "thumbnail": "https://i.postimg.cc/vBF5v5x3/1658100399169.jpg",
     "description": "Aire acondicionado Surrey de 4500 frigorías\n- Modelo INVERTER SMART 5240W FC 553ICQ\n- 3 años de antigüedad\n- Eficiencia energética A\n- Frío, calor\n- En perfecto estado!",
     "price": 150000,
-    "images": ["https://i.postimg.cc/6QGdRMq8/1658100399151.jpg",
-    "https://i.postimg.cc/rF3sWMr9/IMG-20220717-195613.jpg",
-    "https://i.postimg.cc/zfBqPQKf/IMG-20220717-195707.jpg"],
-    "is_new": true,
+    "images": [
+      "https://i.postimg.cc/6QGdRMq8/1658100399151.jpg",
+      "https://i.postimg.cc/rF3sWMr9/IMG-20220717-195613.jpg",
+      "https://i.postimg.cc/zfBqPQKf/IMG-20220717-195707.jpg"
+    ],
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -620,7 +625,128 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821225-MLA31610648673_072019-O.webp",
     "description": "Cable de baterías para hacer puente, reforzado en goma\n- Dos pares de pinzas o (cocodrilos)\n- 600 amperes apto para autos, camionetas\n- Estuche organizador con cierre\n- Largo del cable: 2.50 mts\n- Estos cables permiten arrancar el vehículo cuando tiene algún problema eléctrico o la batería se daña o se agota.",
     "price": 1800,
-    "images": ["https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"],
+    "images": [
+      "https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 43,
+    "name": "Marco grande",
+    "thumbnail": "https://i.postimg.cc/zBhss27s/IMG-20220729-201038.jpg",
+    "description": "Marco para cuadro, de pino\n- 100cmx70cm\n- Incluye vidrio",
+    "price": 1800,
+    "images": [
+      "https://i.postimg.cc/q7WfZHsc/IMG-20220729-200949.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 44,
+    "name": "Marco mediano",
+    "thumbnail": "https://i.postimg.cc/d3mz17zn/IMG-20220729-214349.jpg",
+    "description": "Marco para cuadro, de pino\n- 50cmx40cm\n- Incluye vidrio",
+    "price": 1000,
+    "images": [
+      "https://i.postimg.cc/0jqTPGHb/IMG-20220729-214454.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 45,
+    "name": "Mousepad gamer",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_982232-MLA48679533970_122021-O.webp",
+    "description": "Mouse Pad gamer negro marca Redragon\n- Flick de caucho y tela\n- 400mm x 450mm x 4mm",
+    "price": 1000,
+    "images": [
+      "https://i.postimg.cc/6Q45MX2w/IMG-20220729-220726.jpg",
+      "https://i.postimg.cc/KzXcVHBT/IMG-20220729-220849.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 46,
+    "name": "Monitor Asus",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_880468-MLA48700865031_122021-O.webp",
+    "description": "Monitor Eye Care ASUS VA24DQ\n- 23,8 pulgadas, Full HD, Sin marco, 75 Hz, Adaptive-Sync/FreeSync™\n- Filtro de luz azul, Antiparpadeo\n- 1 año de antigüedad",
+    "price": 42000,
+    "images": [
+      "https://i.postimg.cc/bJNPKfds/IMG-20220729-223216.jpg",
+      "https://i.postimg.cc/zfk5tGzs/IMG-20220729-223404.jpg",
+      "https://i.postimg.cc/GpRdxyCP/IMG-20220729-223419.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 47,
+    "name": "Monitor Benq",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_753276-MLA45212632297_032021-O.webp",
+    "description": "Monitor BenQ GW2480 24 pulgadas\n- Tiene una resolución de 1920px-1080px\n- Panel IPS\n- Filtro de luz azul EyeCare\n- Tipos de conexión: DisplayPort, HDMI 1.4, D-Sub, Audio line in, Jack 3.5 mm.\n- Altavoces incluidos\n- 1 año de antigüedad",
+    "price": 42000,
+    "images": [
+      "https://i.postimg.cc/gkVbg02G/IMG-20220729-224819.jpg",
+      "https://i.postimg.cc/nhTbtwm5/IMG-20220729-225102.jpg",
+      "https://i.postimg.cc/N0MhG770/IMG-20220729-225224.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 48,
+    "name": "Estabilizador",
+    "thumbnail": "https://i.postimg.cc/sXfDPhrQ/Screen-Shot-2022-07-29-at-23-30-30.png",
+    "description": "Estabilizador de tensión Atomlux Linea R R1000@ 1000VA entrada y salida de 220V blanco\n- Tiene 6 tomas\n- Apto para varios dispositivos\n- Su rango de voltaje de entrada es de 185V - 240V\n- Peso: 1.7 kg.\n- Protección contra variaciones de tensión.",
+    "price": 1500,
+    "images": [
+      "https://i.postimg.cc/HnhGyJYg/IMG-20220729-231509.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 49,
+    "name": "Estabilizador",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_733842-MLA48538478350_122021-O.webp",
+    "description": "Estabilizador Atomlux Modelo R1000@ - 1000 VA\n- Protección por baja o alta tensión\n- Filtro de línea\n- LEDs indicadores de nivel de tensión\n- Protección para internet y teléfono\n- Entrada (tensión/frecuencia):220V ~ 50/60Hz\n- Rango de estabilización:185V a 240V\n- Tensión de salida: 220V ~ +/- 8%\n- Potencia pico: 1000 VA\n- Potencia Nominal: 500 VA\n- Fusible: 5 A\n- Salidas Estabilizadas (Maximo): 2 PCs\n- Salidas Filtradas (Maximo): 1 Impresora Laser",
+    "price": 3000,
+    "images": [
+      "https://i.postimg.cc/26CfRRcP/IMG-20220729-231054.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 50,
+    "name": "Caloventor",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_856407-MLA49172952373_022022-O.webp",
+    "description": "Caloventor Exahome\n- Con termostato\n- 3 Potencias - ventilación - 1000w - 2000w\n- El cable tiene una medida aproximada de 110cm",
+    "price": 1200,
+    "images": [
+      "https://i.postimg.cc/mgNPQRHn/IMG-20220729-232712.jpg",
+      "https://i.postimg.cc/N0dLz4b7/IMG-20220729-232726.jpg",
+      "https://i.postimg.cc/25kVGJdS/IMG-20220729-232832.jpg"
+    ],
     "is_new": true,
     "is_sold": false,
     "is_visible": true,
