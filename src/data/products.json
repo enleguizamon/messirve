@@ -70,7 +70,7 @@
     "name": "Router",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_728491-MLA49800396011_042022-F.webp",
     "description": "Router Linksys EA2700\n- Dual Band\n- 300 Mbps + 300 Mbps de velocidad (Bandas 2.4 y 5 Ghz)\n- 4 conexiones Gigabit Ethernet\n- Excelente estado\n- Incluye cable de red listo para conectar a tu módem",
-    "price": 1200,
+    "price": 1000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_948265-MLA49800315569_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_950782-MLA49800344357_042022-F.webp"
@@ -299,7 +299,7 @@
       "https://i.postimg.cc/t4KNhTqJ/IMG-20220521-155323.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true
   },
   {
@@ -409,7 +409,7 @@
     "name": "Aspiradora",
     "thumbnail": "https://i.postimg.cc/66L9nYyV/IMG-20220618-182841.jpg",
     "description": "Aspiradora robot Roomba 960\n- Se recarga automáticamente según sea necesario\n- Incluye base de carga\n- Compatible con Google Assistant y Alexa. Se puede programar los días y horarios para que trabaje la aspiradora usando la App iRobot HOME\n - Viene incluida una ''pared'' virtual para colocar en lugares donde la aspiradora no debería limpiar\n - Conexión Wi-Fi, navegación inteligente, tecnología patentada Dirt Detect™, cepillo para barrido de bordes, cabezal de limpieza de ajuste automático, funciona en alfombras y pisos duros\n- La aspiradora crea mapas de los alrededores para limpiar todos los niveles del hogar, alrededor de objetos y debajo de los muebles.\n- Excelente para casas con mascotas. El sistema de limpieza de tres fases de primera calidad limpia la suciedad y el pelo de las mascotas que se puede ver, así como los alérgenos y polvo que no se ve.\n- Los dos cepillos de goma para múltiples superficies se ajustan y flexionan para mantenerse en contacto constante con alfombras y suelos duros.\n - El filtro de alta eficiencia atrapa el 99 % de alérgenos presentes en gatos y perros.\n - Viene con 5 repuestos de filtros, 2 cepillos laterales, 2 pares de rodillos 1 un cepillo manual de limpieza\n- Incluye manual original\n- En excelente estado!",
-    "price": 86000,
+    "price": 85000,
     "images": [
       "https://i.postimg.cc/bNyqTkt7/IMG-20220618-182944.jpg",
       "https://i.postimg.cc/vB5GPvXs/IMG-20220618-182305.jpg",
@@ -527,7 +527,7 @@
     "name": "Set cuchillos",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_889741-MLA31637911961_072019-F.webp",
     "description": "Set de cuchillos y tijera Tramontina\nCon taco de madera\nContiene: 1 Cuchillo de legumbres, 1 Cuchillo para carne, 1 Cuchillo serrucho, 1 Cuchillo cocina y 1 Tijera",
-    "price": 6000,
+    "price": 5000,
     "images": [
       "https://i.postimg.cc/bwM6CmdG/IMG-20220710-170041.jpg",
       "https://i.postimg.cc/kGnw6ZYH/IMG-20220710-170106.jpg",
@@ -561,7 +561,7 @@
     "name": "Reloj mujer",
     "thumbnail": "https://i.postimg.cc/Bvj4XM9j/IMG-20220717-180605.jpg",
     "description": "Reloj clásico  Paddle Watch de mujer\n- Material: acero\n- Resistencia al agua: 3ATM",
-    "price": 6000,
+    "price": 5000,
     "images": [
       "https://i.postimg.cc/YqqtgpQG/IMG-20220717-171414.jpg",
       "https://i.postimg.cc/bwZ8C3Cq/IMG-20220717-171528.jpg"
@@ -576,7 +576,7 @@
     "name": "Reloj hombre",
     "thumbnail": "https://i.postimg.cc/vZqGYCjR/IMG-20220717-180124.jpg",
     "description": "Reloj clásico Paddle Watch de hombre\n- Material: acero inoxidable\n- Resistencia al agua: 30 metros\n",
-    "price": 8000,
+    "price": 7000,
     "images": [
       "https://i.postimg.cc/fT2Df6vH/IMG-20220717-171221.jpg",
       "https://i.postimg.cc/mrFLD8Cm/IMG-20220717-171212.jpg"
@@ -628,7 +628,7 @@
     "images": [
       "https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -642,8 +642,8 @@
     "images": [
       "https://i.postimg.cc/q7WfZHsc/IMG-20220729-200949.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -656,8 +656,8 @@
     "images": [
       "https://i.postimg.cc/0jqTPGHb/IMG-20220729-214454.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -717,8 +717,8 @@
     "images": [
       "https://i.postimg.cc/HnhGyJYg/IMG-20220729-231509.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -731,8 +731,8 @@
     "images": [
       "https://i.postimg.cc/26CfRRcP/IMG-20220729-231054.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -746,6 +746,53 @@
       "https://i.postimg.cc/mgNPQRHn/IMG-20220729-232712.jpg",
       "https://i.postimg.cc/N0dLz4b7/IMG-20220729-232726.jpg",
       "https://i.postimg.cc/25kVGJdS/IMG-20220729-232832.jpg"
+    ],
+    "is_new": false,
+    "is_sold": true,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 51,
+    "name": "Estantes flotantes",
+    "thumbnail": "https://i.postimg.cc/hPT6Z8Bq/IMG-20220731-003949.jpg",
+    "description": "Dos estantes flotantes con sus soportes y tornillos\n- Medida de cada estante: 60cm x 20cm x 2cm\n- Uno de los estantes tiene un detalle en la madera que se puede ver en la última foto\n - El precio es por los dos juegos de estantes",
+    "price": 2000,
+    "images": [
+      "https://i.postimg.cc/rstCm9Jy/IMG-20220731-001101.jpg",
+      "https://i.postimg.cc/Mpw4Cc6f/IMG-20220731-003919.jpg",
+      "https://i.postimg.cc/hPT6Z8Bq/IMG-20220731-003949.jpg",
+      "https://i.postimg.cc/fW61v21K/IMG-20220731-004624.jpg",
+      "https://i.postimg.cc/jqWGP032/IMG-20220731-004400.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 52,
+    "name": "Lámpara de pie",
+    "thumbnail": "https://i.postimg.cc/jCVxsTx5/IMG-20220731-223931.jpg",
+    "description": "Lámpara de pie regulable\n- Base pesada de 25 cm de diámetro\n- 175 cm de alto\n- Cuando se regula la luz a muy baja intensidad, hace un ruido de interferencia\n- Tiene unos detalles cerca de la perilla que se aprecian en la última foto\n- Disponibilidad desde el 20/8",
+    "price": 4000,
+    "images": [
+      "https://i.postimg.cc/bY4kG2dG/IMG-20220731-223620.jpg",
+      "https://i.postimg.cc/5tp28D37/IMG-20220731-223534.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 53,
+    "name": "Impresora láser",
+    "thumbnail": "https://i.postimg.cc/1Xgq4yp1/IMG-20220731-225806.jpg",
+    "description": "Impresora láser blanco y negro\n- Modelo Brother HL-1212W\n- Tiene entrada USB y Wifi\n- Capacidad máxima de 150 hojas.\n- Soporta papel tamaño A4, A5, B5, Carta, Ejecutivo, Folio, Legal, A5 (borde largo).\n- Disponible desde el 20/8",
+    "price": 40000,
+    "images": [
+      "https://i.postimg.cc/3RfGKk0Z/IMG-20220731-225727.jpg"
     ],
     "is_new": true,
     "is_sold": false,
