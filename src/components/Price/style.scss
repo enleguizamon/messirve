@@ -1,8 +1,16 @@
+$tablet-breakpoint: 600px;
+$laptop-breakpoint: 769px;
+
 .price {
   font-weight: 700;
   font-size: 2rem;
   width: 100%;
-  margin: 0.5em 0;
+  margin: 0.5em 0 0;
+  text-align: right;
+
+  @media screen and (max-width: $tablet-breakpoint) {
+    margin-bottom: 0.5em;
+  }
 }
 
 .homePrice {

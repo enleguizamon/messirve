@@ -2,12 +2,11 @@ $tablet-breakpoint: 600px;
 $laptop-breakpoint: 769px;
 
 .productDescContainer {
-  padding: 1rem;
   display: flex;
   justify-content: space-around;
   align-items: flex-start;
   flex-direction: row;
-  padding: 20px 3rem;
+  padding: 7rem 3rem;
 
   @media screen and (max-width: $laptop-breakpoint) {
     align-items: flex-start;
@@ -22,6 +21,17 @@ $laptop-breakpoint: 769px;
   margin-top: 0;
   border-bottom: 3px solid black;
   padding-bottom: 0.2em;
+}
+
+.descWrapper {
+  a {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  ul li {
+    line-height: 1.5em;
+  }
 }
 
 .imagesContainer {

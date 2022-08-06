@@ -34,10 +34,7 @@ function Item(props) {
           <div className="descWrapper">
             {formatDesc.map((desc) => {
               return (
-                <p className="description">
-                  {desc}
-                  <br />
-                </p>
+                <div className="description" dangerouslySetInnerHTML={{ __html: desc }}></div>
               );
             })}
           </div>

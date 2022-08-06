@@ -32,8 +32,8 @@
     "id": 2,
     "name": "Smart TV 75\"",
     "thumbnail": "/assets/tv/1.png",
-    "description": "Smart TV Samsung 75 pulgadas 4K Ultra HD UN75RU7100GCZB - AR$220000",
-    "price": 220000,
+    "description": "Smart TV Samsung 75 pulgadas 4K Ultra HD<ul><li>Modelo <code>UN75RU7100GCZB</code></li><li><a target='_blank' href='https://www.samsung.com/us/televisions-home-theater/tvs/uhd-tvs/75--class-ru7100-smart-4k-uhd-tv--2019--un75ru7100fxza/'>Ver prestaciones</a></li><li><a target='_blank' href='https://www.samsung.com/ar/support/model/UN75RU7100GCZB/'>Manuales online</a></li></ul>",
+    "price": 170000,
     "images": [
       "/assets/tv/1.png",
       "/assets/tv/2.png",
@@ -108,7 +108,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta1/Screenshot 2022-08-06 at 15.28.50.png",
       "/assets/maceta1/Screenshot 2022-08-06 at 15.29.00.png"
     ],
     "is_new": false,
@@ -122,7 +121,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta2/Screenshot 2022-08-06 at 15.32.51.png",
       "/assets/maceta2/Screenshot 2022-08-06 at 15.33.05.png"
     ],
     "is_new": false,
@@ -136,7 +134,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta3/Screenshot 2022-08-06 at 15.30.26.png",
       "/assets/maceta3/Screenshot 2022-08-06 at 15.30.33.png"
     ],
     "is_new": false,
@@ -150,7 +147,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta4/Screenshot 2022-08-06 at 15.26.01.png",
       "/assets/maceta4/Screenshot 2022-08-06 at 15.26.13.png"
     ],
     "is_new": false,
@@ -164,7 +160,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta5/Screenshot 2022-08-06 at 15.27.34.png",
       "/assets/maceta5/Screenshot 2022-08-06 at 15.27.44.png"
     ],
     "is_new": false,
@@ -178,7 +173,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta6/Screenshot 2022-08-06 at 15.31.40.png",
       "/assets/maceta6/Screenshot 2022-08-06 at 15.31.48.png"
     ],
     "is_new": false,
@@ -192,7 +186,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta7/Screenshot 2022-08-06 at 15.23.38.png",
       "/assets/maceta7/Screenshot 2022-08-06 at 15.23.50.png"
     ],
     "is_new": false,
@@ -206,7 +199,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta8/Screenshot 2022-08-06 at 15.44.53.png",
       "/assets/maceta8/Screenshot 2022-08-06 at 15.45.02.png"
     ],
     "is_new": false,
@@ -220,7 +212,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta9/Screenshot 2022-08-06 at 15.39.12.png",
       "/assets/maceta9/Screenshot 2022-08-06 at 15.39.20.png"
     ],
     "is_new": false,
@@ -234,7 +225,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta10/Screenshot 2022-08-06 at 15.35.14.png",
       "/assets/maceta10/Screenshot 2022-08-06 at 15.35.28.png",
       "/assets/maceta10/Screenshot 2022-08-06 at 15.35.42.png"
     ],
@@ -249,7 +239,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta11/Screenshot 2022-08-06 at 15.46.15.png",
       "/assets/maceta11/Screenshot 2022-08-06 at 15.46.23.png"
     ],
     "is_new": false,
@@ -263,7 +252,6 @@
     "description": "",
     "price": 999999,
     "images": [
-      "/assets/maceta12/Screenshot 2022-08-06 at 15.47.37.png",
       "/assets/maceta12/Screenshot 2022-08-06 at 15.47.46.png",
       "/assets/maceta12/Screenshot 2022-08-06 at 15.48.10.png",
       "/assets/maceta12/Screenshot 2022-08-06 at 15.48.17.png"
@@ -279,7 +267,6 @@
     "description": "Maceta grande fibra de vidrio c/acabado plástico + bandeja plástica 33x30cm - blanca",
     "price": 999999,
     "images": [
-      "/assets/maceta13/Screenshot 2022-08-06 at 15.42.45.png",
       "/assets/maceta13/Screenshot 2022-08-06 at 15.43.12.png"
     ],
     "is_new": false,
@@ -293,7 +280,6 @@
     "description": "Maceta grande fibra de vidrio c/acabado plástico 28x24cm blanca + pie de madera 50cm",
     "price": 999999,
     "images": [
-      "/assets/maceta14/Screenshot 2022-08-06 at 15.50.50.png",
       "/assets/maceta14/Screenshot 2022-08-06 at 15.50.59.png"
     ],
     "is_new": false,

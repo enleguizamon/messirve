@@ -3,7 +3,6 @@ $laptop-breakpoint: 769px;
 
 .productWrapper {
   background-color: #fff;
-  min-height: 100vh;
   width: 100%;
   padding-bottom: 2rem;
 }
@@ -21,6 +20,14 @@ $laptop-breakpoint: 769px;
   align-items: flex-start;
   justify-content: flex-end;
   margin-top: 70px;
+  margin-bottom: 1em;
+
+  @media screen and (min-width: $tablet-breakpoint) {
+    position: fixed;
+    display: block;
+    margin-top: 0px;
+    z-index: 999;
+  }
 }
 
 /* CSS */
