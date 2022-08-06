@@ -2,6 +2,7 @@ import { useState } from "react";
 import products from "../../data/products.json";
 import { Link } from "react-router-dom";
 import "./style.scss";
+import Price from "../../components/Price";
 
 function HomePage() {
   const [search, setSearch] = useState("");
@@ -64,7 +65,7 @@ function HomePage() {
                     </div>
                     <div className="cardDesc">
                       <p className="name">{product.name}</p>
-                      <p className="homePrice">$ {product.price}</p>
+                      <Price className="homePrice"amount={product.price}/>
                     </div>
                   </Link>
                 </li>
@@ -94,7 +95,7 @@ function HomePage() {
                     </div>
                     <div className="cardDesc">
                       <p className="name">{product.name}</p>
-                      <p className="homePrice">$ {product.price}</p>
+                      <Price className="homePrice"amount={product.price}/>
                     </div>
                   </Link>
                 </li>
@@ -116,7 +117,7 @@ function HomePage() {
                   </div>
                   <div className="cardDesc">
                     <p className="name">{product.name}</p>
-                    <p className="homePrice">$ {product.price}</p>
+                    <Price className="homePrice"amount={product.price}/>
                   </div>
                 </li>
               );

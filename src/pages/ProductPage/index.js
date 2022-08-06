@@ -7,10 +7,10 @@ function ProductPage() {
 
   return (
     <div className="productWrapper">
-      <Item id={id} />
-      <Link to="/" className="link">
+      <Link to="/" className="link back-link">
         <button className="button-30">volver</button>
       </Link>
+      <Item id={id} />
     </div>
   );
 }

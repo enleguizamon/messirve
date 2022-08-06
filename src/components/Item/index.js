@@ -1,6 +1,7 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import "./style.scss";
 import products from "../../data/products.json";
+import Price from "../Price";
 
 import "swiper/css";
 import "swiper/css/navigation";
@@ -15,7 +16,6 @@ function Item(props) {
   return (
     <div>
       <div className="productDescContainer">
-        <p className="productName">{name}</p>
 
         <div className="imagesContainer">
           <Swiper navigation={true} modules={[Navigation]} className="mySwiper">
@@ -29,16 +29,19 @@ function Item(props) {
           </Swiper>
         </div>
 
-        <p className="price">$ {price}</p>
-        <div className="descWrapper">
-          {formatDesc.map((desc) => {
-            return (
-              <p className="description">
-                {desc}
-                <br />
-              </p>
-            );
-          })}
+        <div className="productInfoContainer">
+          <p className="productName">{name}</p>
+          <Price amount={price}/>
+          <div className="descWrapper">
+            {formatDesc.map((desc) => {
+              return (
+                <p className="description">
+                  {desc}
+                  <br />
+                </p>
+              );
+            })}
+          </div>
         </div>
       </div>
     </div>

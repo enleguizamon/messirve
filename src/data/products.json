@@ -2,11 +2,11 @@
   {
     "id": 0,
     "name": "Poltrona Carol",
-    "thumbnail": "/assets/poltrona/1.jpeg",
+    "thumbnail": "/assets/poltrona/1.png",
     "description": "Poltrona Carol color gris - Estèe Deco",
     "price": 22000,
     "images": [
-      "/assets/poltrona/1.jpeg",
+      "/assets/poltrona/1.png",
       "/assets/poltrona/2.jpeg"
     ],
     "is_new": false,
@@ -30,7 +30,7 @@
   },
   {
     "id": 2,
-    "name": "TV 75 pulgadas",
+    "name": "Smart TV 75 \"",
     "thumbnail": "/assets/tv/1.png",
     "description": "Smart TV Samsung 75 pulgadas 4K Ultra HD UN75RU7100GCZB - AR$220000",
     "price": 220000,
@@ -38,6 +38,19 @@
       "/assets/tv/1.png",
       "/assets/tv/2.png",
       "/assets/tv/3.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 3,
+    "name": "Barra De Sonido",
+    "thumbnail": "/assets/barra/1.png",
+    "description": "Barra De Sonido Samsung T450 200w Subwoofer Soundbar Premium - AR$36000",
+    "price": 36000,
+    "images": [
+      "/assets/barra/1.png"
     ],
     "is_new": false,
     "is_sold": false,
