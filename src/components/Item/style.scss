@@ -7,12 +7,12 @@ $laptop-breakpoint: 769px;
   justify-content: space-around;
   align-items: flex-start;
   flex-direction: row;
-  padding: 20px 40px;
+  padding: 20px 3rem;
 
   @media screen and (max-width: $laptop-breakpoint) {
     align-items: flex-start;
     flex-direction: column-reverse;
-    padding: 0 20px;
+    padding: 0 1rem;
   }
 }
 
@@ -20,6 +20,8 @@ $laptop-breakpoint: 769px;
   font-weight: 700;
   font-size: 1.5rem;
   margin-top: 0;
+  border-bottom: 3px solid black;
+  padding-bottom: 0.2em;
 }
 
 .imagesContainer {
@@ -30,7 +32,7 @@ $laptop-breakpoint: 769px;
   margin-bottom: 1rem;
   height: 30rem;
   width: 90%;
-  padding: 0 40px;
+  padding: 0 1rem;
 
   @media screen and (min-width: $tablet-breakpoint) {
     height: 40%;
@@ -42,20 +44,29 @@ $laptop-breakpoint: 769px;
   }
 }
 
+.swiper-wrapper {
+  // align-items: center; /* add this will all relevant prefixes */
+}
+
 .swiper {
   width: 100%;
   height: 100%;
   & .swiper-button-next,
   & .swiper-button-prev {
-    color: pink;
+    color: black;
+    background-color: rgba(255,255,255,0.5);
+    width: 4.5rem;
+    height: 4.55rem;
+    border-radius: 50%;
+    transform: scale(0.8);
+    box-shadow: 0 0 10px -5px rgba(0,0,0,0.6)
   }
 }
-
 
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: #d7d5d5;
+  background: #f1f1f1;
 
   /* Center slide text vertically */
   display: -webkit-box;
@@ -75,22 +86,21 @@ $laptop-breakpoint: 769px;
 .swiper-slide img {
   display: block;
   width: 100%;
-  height: 100%;
+  // height: 100%;
   object-fit: cover;
 }
 
 .productInfoContainer {
   width: 40%;
-  padding: 40px;
+  padding: 2rem;
   margin: 0 40px 0 20px;
   border: 1px solid grey;
-  border-radius: 4px;
+  border-radius: 6px;
   @media screen and (max-width: $laptop-breakpoint) {
     width: 100%;
-    margin: 20px;
     border: none;
     margin: 0;
-    padding-top: 0;
+    padding: 0 1rem;
   }
 }
 

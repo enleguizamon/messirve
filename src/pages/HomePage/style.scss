@@ -1,3 +1,6 @@
+$tablet-breakpoint: 600px;
+$laptop-breakpoint: 769px;
+
 * {
   box-sizing: border-box;
   text-decoration: none;
@@ -8,36 +11,20 @@
   display: flex;
 }
 
-.inputContainer {
-  background-color: pink;
-  width: 100vw;
-  padding: 1rem 1rem 0rem 1rem;
-  display: flex;
-  justify-content: center;
-}
-
-.search {
-  height: 1.9rem;
-}
-
 .homeContainer {
-  background-color: #d7d5d5;
   width: 100vw;
   min-height: 100vh;
   margin-top: 4.3rem;
-  padding-right: 1rem;
   display: flex;
   flex-direction: column;
 }
 
 .titleWrapper {
-  height: 5.5rem;
+  background-color: #fde8ec;
   width: 100vw;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
   text-align: center;
-  background-color: pink;
-  margin-bottom: -2rem;
-  padding-bottom: 0.3rem;
+  padding: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;  
@@ -45,19 +32,50 @@
 }
 
 .title {
-  font-weight:700;
+  margin: 0;
+  font-weight: 700;
   font-size: 2.5rem;
-  margin-bottom: -1.6rem;
-  margin-top: 1rem;
 }
 
 .contactText {
+  margin: 0.5rem;
+}
+
+.inputContainer {
+  position: relative;
+  max-width: 300px;
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  margin: 0 auto;
+}
+
+.inputContainer:before {
+  content: '';
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8' standalone='no'%3F%3E%3Csvg xmlns:dc='http://purl.org/dc/elements/1.1/' xmlns:cc='http://creativecommons.org/ns%23' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns%23' xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' version='1.1' id='Layer_1' x='0px' y='0px' width='20' height='20' viewBox='0 0 46.553307 46.200966' enable-background='new 0 0 100 100' xml:space='preserve' inkscape:version='0.48.3.1 r9886' sodipodi:docname='noun_project_15028.svg'%3E%3Cmetadata id='metadata15'%3E%3Crdf:RDF%3E%3Ccc:Work rdf:about=''%3E%3Cdc:format%3Eimage/svg+xml%3C/dc:format%3E%3Cdc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage' /%3E%3C/cc:Work%3E%3C/rdf:RDF%3E%3C/metadata%3E%3Cdefs id='defs13' /%3E%3Csodipodi:namedview pagecolor='%23ffffff' bordercolor='%23666666' borderopacity='1' objecttolerance='10' gridtolerance='10' guidetolerance='10' inkscape:pageopacity='0' inkscape:pageshadow='2' inkscape:window-width='640' inkscape:window-height='480' id='namedview11' showgrid='false' fit-margin-top='0' fit-margin-left='0' fit-margin-right='0' fit-margin-bottom='0' inkscape:zoom='2.36' inkscape:cx='20.539' inkscape:cy='22.938967' inkscape:window-x='35' inkscape:window-y='0' inkscape:window-maximized='0' inkscape:current-layer='Layer_1' /%3E%3Cg id='XMLID_13_' transform='translate(-29.461,-26.738)'%3E%3Cg id='g4'%3E%3Cg id='XMLID_10_'%3E%3Cg id='g7'%3E%3Cpath d='M 69.902,72.704 58.967,61.769 c -2.997,1.961 -6.579,3.111 -10.444,3.111 -10.539,0 -19.062,-8.542 -19.062,-19.081 0,-10.519 8.522,-19.061 19.062,-19.061 10.521,0 19.06,8.542 19.06,19.061 0,3.679 -1.036,7.107 -2.828,10.011 l 11.013,11.011 c 0.583,0.567 0.094,1.981 -1.076,3.148 l -1.64,1.644 c -1.17,1.167 -2.584,1.656 -3.15,1.091 z M 61.249,45.799 c 0,-7.033 -5.695,-12.727 -12.727,-12.727 -7.033,0 -12.745,5.694 -12.745,12.727 0,7.033 5.712,12.745 12.745,12.745 7.032,0 12.727,-5.711 12.727,-12.745 z' id='path9' inkscape:connector-curvature='0' /%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  position: absolute;
+  z-index: 999;
+  margin-top: 14px;
+  margin-left: 14px;
+}
+
+.search {
+  width: 100%;
+  height: 3rem;
+  line-height: 3rem;
+  font-size: 1.1em;
+  text-indent: 38px;
+  border: 0;
+  padding: 0.5em;
 }
 
 .productsAdvise {
-  padding-top: 3rem;
+  padding: 2rem 1rem 0;
   text-align: center;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.2rem;
 }
 
@@ -69,11 +87,12 @@
   align-items: center;
   flex-wrap: wrap;
   overflow: hidden;
-  padding-top: 0.5rem;
+  padding: 0 0 3rem 0;
 }
 
 .productContainer {
-  width: 17rem;
+  width: 80%;
+  min-width: 17rem;
   height: 20rem;
   display: flex;
   flex-direction: column;
@@ -81,23 +100,25 @@
   align-items: center;
   background-color: whitesmoke;
   margin: 0.9rem;
-  padding:1rem;
-  border-radius: 1rem;
-  -webkit-box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86); 
-box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: -5px 6px 10px -8px rgb(0 0 0 / 60%);
+
+  @media screen and (min-width: $tablet-breakpoint) {
+    width: 17rem;
+  }
 }
 
+.productContainer:hover,
 .productContainer:active {
-  box-shadow: #D6D6E7 0 3px 7px inset;
-  transform: translateY(2px);
+  box-shadow: -5px 6px 10px -8px rgb(0 0 0 / 30%);
+  transform: translate(-2px, 2px);
 }
 
 .newContainer {
   display: flex;
   justify-content: flex-start;
   width: 10%;
-  //top: 1rem;
-  //margin: -2rem;
   margin-left: -13rem;
   margin-top: -1rem;
   margin-bottom: -0.6rem;
@@ -125,34 +146,35 @@ box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
   border-right: red 0.5px solid;
   border-bottom-right-radius: 1px;
   border-top-right-radius: 1px;
-	z-index:1;
+	z-index: 1;
+  font-weight: 600;
+  font-size: 0.8em;
   &:after{
-        position: absolute;
-        content: "";
-        position: absolute;
-        margin-left: -1px;
-        left: 0;
-        bottom: 0;
-        width: 0;
-        height: 0;
-        border-left: 11px solid whitesmoke;
-        border-top: 12px solid transparent;
-        border-bottom: 12px solid transparent;
-        
-      }
-      
-      &:before {
-        content: "";
-        position: absolute;
-        right: -13px;
-        bottom: 0;
-        width: 0;
-        height: 0;
-        border-left: 13px solid red;
-        border-top: 12px solid transparent;
-        border-bottom: 12px solid transparent;
-      }
-      
+    position: absolute;
+    content: "";
+    position: absolute;
+    margin-left: -1px;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 11px solid whitesmoke;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+    
+  }
+  
+  &:before {
+    content: "";
+    position: absolute;
+    right: -13px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 13px solid red;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+  }
 }
 
 .isSold {
@@ -180,26 +202,39 @@ box-shadow: -6px 7px 13px -6px rgba(0,0,0,0.86);
 .image {
   height: 13.8rem;
   padding: 1rem;
-  margin: 1rem;
   object-fit: cover;
 }
 
- .cardDesc {
-   display: flex;
-   justify-content: space-evenly;
-   width: 17rem;
-   padding-left: 0.5rem;
-   font-size: 1.1rem;
-   color: rgb(53, 53, 53);
- }
+.cardDesc {
+  display: block;
+  padding: 0.5em 2em;
+  justify-content: space-evenly;
+  width: 17rem;
+  font-size: 1.1rem;
+  color: rgb(53, 53, 53);
+}
 
 .name {
+  width: 100%;
+  margin: 0;
   color: rgb(53, 53, 53);
   font-size: 1.1rem;
+  font-weight: 500;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.homePrice {
+  width: 40%;
+  margin: 0;
+  color: rgb(53, 53, 53);
+  font-size: 1.2rem;
+  font-weight: 900;
 }
 
 .soonTitle {
-  background-color: pink;
+  background-color: #fde8ec;
   font-weight: 500;
   width: 80%;
   color: rgb(53, 53, 53);

@@ -31,7 +31,6 @@ function Item(props) {
 
         <div className="productInfoContainer">
           <p className="productName">{name}</p>
-          <Price amount={price}/>
           <div className="descWrapper">
             {formatDesc.map((desc) => {
               return (
@@ -42,6 +41,7 @@ function Item(props) {
               );
             })}
           </div>
+          <Price amount={price}/>
         </div>
       </div>
     </div>

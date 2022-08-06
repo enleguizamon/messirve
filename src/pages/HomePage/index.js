@@ -9,19 +9,19 @@ function HomePage() {
 
   return (
     <div className="homeContainer">
-      <div className="inputContainer">
-        <input
-          type="text"
-          onChange={(event) => {
-            setSearch(event.target.value);
-          }}
-          className="search"
-          placeholder="🔍 Buscar..."
-        />
-      </div>
       <div className="titleWrapper">
-        <p className="title">SE VENDE</p>
+        <h1 className="title">SE VENDE</h1>
         <p className="contactText">Entregas a coordinar</p>
+        <div className="inputContainer">
+          <input
+            type="text"
+            onChange={(event) => {
+              setSearch(event.target.value);
+            }}
+            className="search"
+            placeholder="buscar..."
+          />
+        </div>
       </div>
       <div className="productsAdvise">
         Todas las semanas subimos artículos nuevos
