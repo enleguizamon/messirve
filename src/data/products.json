@@ -55,6 +55,249 @@
     "is_new": false,
     "is_sold": false,
     "is_visible": true
+  },
+  {
+    "id": 4,
+    "name": "Bicicleta Mtb Olmo R26 + Casco",
+    "thumbnail": "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
+    "description": "Bicicleta Mtb Olmo R26 Wish 265 Dama Mujer + Casco Fast Mtb Ciclismo Regulable",
+    "price": 40000,
+    "images": [
+      "/assets/bici/Screenshot 2022-08-06 at 15.10.27.png",
+      "/assets/bici/Screenshot 2022-08-06 at 15.11.03.png",
+      "/assets/bici/Screenshot 2022-08-06 at 15.11.25.png",
+      "/assets/bici/104264-2.jpeg",
+      "/assets/bici/104264.jpeg"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 5,
+    "name": "Puff - Crema",
+    "thumbnail": "/assets/puff-crema/Screenshot 2022-08-06 at 15.54.49.png",
+    "description": "Puff peluche color crema",
+    "price": 10000,
+    "images": [
+      "/assets/puff-crema/Screenshot 2022-08-06 at 15.54.49.png",
+      "/assets/puff-crema/Screenshot 2022-08-06 at 15.55.03.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 6,
+    "name": "Puff - Gris Oscuro",
+    "thumbnail": "/assets/puff-gris/Screenshot 2022-08-06 at 15.59.33.png",
+    "description": "Puff peluche color gris oscuro",
+    "price": 10000,
+    "images": [
+      "/assets/puff-gris/Screenshot 2022-08-06 at 15.59.33.png",
+      "/assets/puff-gris/Screenshot 2022-08-06 at 15.59.52.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 7,
+    "name": "Maceta cerámica 8x7cm - blanca",
+    "thumbnail": "/assets/maceta1/Screenshot 2022-08-06 at 15.28.50.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta1/Screenshot 2022-08-06 at 15.28.50.png",
+      "/assets/maceta1/Screenshot 2022-08-06 at 15.29.00.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 8,
+    "name": "Maceta cerámica 9,5x9,5cm - blanca",
+    "thumbnail": "/assets/maceta2/Screenshot 2022-08-06 at 15.32.51.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta2/Screenshot 2022-08-06 at 15.32.51.png",
+      "/assets/maceta2/Screenshot 2022-08-06 at 15.33.05.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 9,
+    "name": "Maceta cerámica 10,5x8,5cm - amarillo pastel",
+    "thumbnail": "/assets/maceta3/Screenshot 2022-08-06 at 15.30.26.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta3/Screenshot 2022-08-06 at 15.30.26.png",
+      "/assets/maceta3/Screenshot 2022-08-06 at 15.30.33.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 10,
+    "name": "Maceta cerámica 10,5x8,5cm - rosa pastel",
+    "thumbnail": "/assets/maceta4/Screenshot 2022-08-06 at 15.26.01.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta4/Screenshot 2022-08-06 at 15.26.01.png",
+      "/assets/maceta4/Screenshot 2022-08-06 at 15.26.13.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 11,
+    "name": "Maceta cerámica 10,5x8,5cm - turquesa pastel",
+    "thumbnail": "/assets/maceta5/Screenshot 2022-08-06 at 15.27.34.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta5/Screenshot 2022-08-06 at 15.27.34.png",
+      "/assets/maceta5/Screenshot 2022-08-06 at 15.27.44.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 12,
+    "name": "Maceta cerámica 12x9,5cm - celeste pastel claro",
+    "thumbnail": "/assets/maceta6/Screenshot 2022-08-06 at 15.31.40.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta6/Screenshot 2022-08-06 at 15.31.40.png",
+      "/assets/maceta6/Screenshot 2022-08-06 at 15.31.48.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 13,
+    "name": "Maceta cerámica 12x10cm - blanca",
+    "thumbnail": "/assets/maceta7/Screenshot 2022-08-06 at 15.23.38.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta7/Screenshot 2022-08-06 at 15.23.38.png",
+      "/assets/maceta7/Screenshot 2022-08-06 at 15.23.50.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 14,
+    "name": "Maceta cerámica 16x13cm - blanca",
+    "thumbnail": "/assets/maceta8/Screenshot 2022-08-06 at 15.44.53.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta8/Screenshot 2022-08-06 at 15.44.53.png",
+      "/assets/maceta8/Screenshot 2022-08-06 at 15.45.02.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 15,
+    "name": "Maceta cerámica 19,5x20cm - blanca",
+    "thumbnail": "/assets/maceta9/Screenshot 2022-08-06 at 15.39.12.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta9/Screenshot 2022-08-06 at 15.39.12.png",
+      "/assets/maceta9/Screenshot 2022-08-06 at 15.39.20.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 16,
+    "name": "Maceta cerámica 19x11cm - blanca",
+    "thumbnail": "/assets/maceta10/Screenshot 2022-08-06 at 15.35.14.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta10/Screenshot 2022-08-06 at 15.35.14.png",
+      "/assets/maceta10/Screenshot 2022-08-06 at 15.35.28.png",
+      "/assets/maceta10/Screenshot 2022-08-06 at 15.35.42.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 17,
+    "name": "Maceta cerámica 23x18cm - blanca",
+    "thumbnail": "/assets/maceta11/Screenshot 2022-08-06 at 15.46.15.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta11/Screenshot 2022-08-06 at 15.46.15.png",
+      "/assets/maceta11/Screenshot 2022-08-06 at 15.46.23.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 18,
+    "name": "Maceta cerámica 25x22cm - blanca",
+    "thumbnail": "/assets/maceta12/Screenshot 2022-08-06 at 15.47.37.png",
+    "description": "",
+    "price": 999999,
+    "images": [
+      "/assets/maceta12/Screenshot 2022-08-06 at 15.47.37.png",
+      "/assets/maceta12/Screenshot 2022-08-06 at 15.47.46.png",
+      "/assets/maceta12/Screenshot 2022-08-06 at 15.48.10.png",
+      "/assets/maceta12/Screenshot 2022-08-06 at 15.48.17.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 19,
+    "name": "Maceta grande fibra de vidrio c/acabado plástico",
+    "thumbnail": "/assets/maceta13/Screenshot 2022-08-06 at 15.42.45.png",
+    "description": "Maceta grande fibra de vidrio c/acabado plástico + bandeja plástica 33x30cm - blanca",
+    "price": 999999,
+    "images": [
+      "/assets/maceta13/Screenshot 2022-08-06 at 15.42.45.png",
+      "/assets/maceta13/Screenshot 2022-08-06 at 15.43.12.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
+  },
+  {
+    "id": 20,
+    "name": "Maceta grande con pie",
+    "thumbnail": "/assets/maceta14/Screenshot 2022-08-06 at 15.50.50.png",
+    "description": "Maceta grande fibra de vidrio c/acabado plástico 28x24cm blanca + pie de madera 50cm",
+    "price": 999999,
+    "images": [
+      "/assets/maceta14/Screenshot 2022-08-06 at 15.50.50.png",
+      "/assets/maceta14/Screenshot 2022-08-06 at 15.50.59.png"
+    ],
+    "is_new": false,
+    "is_sold": false,
+    "is_visible": true
   }
-  
 ]
