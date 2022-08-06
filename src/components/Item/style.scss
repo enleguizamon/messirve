@@ -8,12 +8,12 @@ $laptop-breakpoint: 769px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  }
+}
 
-  .productName {
-font-weight: 700;
-font-size: 1.5rem;
-  }
+.productName {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
 
 .imagesContainer {
   display: flex;
@@ -27,13 +27,18 @@ font-size: 1.5rem;
   @media screen and (min-width: $tablet-breakpoint) {
     height: 40%;
     width: 30%;
-}
+  }
 }
 
 .swiper {
   width: 100%;
   height: 100%;
   border-radius: 0.7rem;
+}
+
+.swiper .swiper-button-next, 
+.swiper .swiper-button-prev {
+  color: pink;
 }
 
 .swiper-slide {
@@ -72,10 +77,6 @@ font-size: 1.5rem;
   font-size: 1.3rem;
   width: 100%;
   text-align: center;
-}
-
-.descWrapper {
-  
 }
 
 .description {

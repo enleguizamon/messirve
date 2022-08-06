@@ -1,5 +1,4 @@
 import "./style.scss";
-import { Link } from "react-router-dom";
 
 function Navbar(props) {
   return (
@@ -7,16 +6,16 @@ function Navbar(props) {
       <p className="contactUs">Contactanos</p>
       <a
         className="mobilePhone"
-        href="https://wa.me/5491551163638?text=Hola Eli! Me%20interesa%20un%20artículo%20a%20la%20venta"
+        href="https://wa.me/5491122737665?text=Hola Lu! Me%20interesa%20un%20artículo%20a%20la%20venta"
       >
-        Eli 📞
+        Lu 📞
       </a>
 
       <a
         className="mobilePhone"
-        href="https://wa.me/5491158453892?text=Hola Juan! Me%20interesa%20un%20artículo%20a%20la%20venta"
+        href="https://wa.me/5491168393025?text=Hola Gera! Me%20interesa%20un%20artículo%20a%20la%20venta"
       >
-        Juan 📞
+        Gera 📞
       </a>
     </div>
   );
