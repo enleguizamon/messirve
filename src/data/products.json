@@ -627,7 +627,7 @@
     "price": 1800,
     "images": ["https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
