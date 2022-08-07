@@ -387,7 +387,7 @@
   {
     "id": 27,
     "name": "TV 48''",
-    "thumbnail": "https://i.postimg.cc/Y0kMTmym/IMG-20220618-162619.jpg",
+    "thumbnail": "https://i.postimg.cc/4NQm4X6g/IMG-20220618-161503.jpg",
     "description": "Smart TV Samsung de 48 pulgadas (modelo un48h6400agcfv)\n - Full HD\n- Soporta películas 3D\n- Incluye 4 anteojos 3D\n- Incluye control remoto original\n- 4 conexiones HDMI, 3 conexiones USB\n- Conexión Wifi y Ethernet (por cable)\n- Base cromada\n- Medidas con la base: 70.6 cm (alto) x 108.7 cm (ancho) x 30.7 cm (profundidad)\n- Peso: 13 kg\n - En excelente estado",
     "price": 60000,
     "images": [
@@ -544,7 +544,7 @@
   {
     "id": 37,
     "name": "Set Taladro",
-    "thumbnail": "https://i.postimg.cc/g2qVDFLH/IMG-20220710-171227.jpg",
+    "thumbnail": "https://i.postimg.cc/WbZ6dJ2K/IMG-20220710-171210.jpg",
     "description": "Taladro 500w + Accesorios",
     "price": 10000,
     "images": [
@@ -574,7 +574,7 @@
   {
     "id": 39,
     "name": "Reloj hombre",
-    "thumbnail": "https://i.postimg.cc/vZqGYCjR/IMG-20220717-180124.jpg",
+    "thumbnail": "https://i.postimg.cc/fT2Df6vH/IMG-20220717-171221.jpg",
     "description": "Reloj clásico Paddle Watch de hombre\n- Material: acero inoxidable\n- Resistencia al agua: 30 metros\n",
     "price": 7000,
     "images": [
@@ -589,7 +589,7 @@
   {
     "id": 40,
     "name": "AC LG",
-    "thumbnail": "https://i.postimg.cc/Y9FV0NQ7/IMG-20220710-172238.jpg",
+    "thumbnail": "https://i.postimg.cc/qqh3w83q/IMG-20220710-172238.jpg",
     "description": "Aire acondicionado LG de 2200 frigorías\n- 10 años de antigüedad\n- Necesita reparación (funciona solo calor)",
     "price": 5000,
     "images": [
@@ -625,9 +625,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821225-MLA31610648673_072019-O.webp",
     "description": "Cable de baterías para hacer puente, reforzado en goma\n- Dos pares de pinzas o (cocodrilos)\n- 600 amperes apto para autos, camionetas\n- Estuche organizador con cierre\n- Largo del cable: 2.50 mts\n- Estos cables permiten arrancar el vehículo cuando tiene algún problema eléctrico o la batería se daña o se agota.",
     "price": 1800,
-    "images": [
-      "https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"
-    ],
+    "images": ["https://i.postimg.cc/brD4wtpL/IMG-2427.jpg"],
     "is_new": false,
     "is_sold": false,
     "is_visible": true,
@@ -636,12 +634,10 @@
   {
     "id": 43,
     "name": "Marco grande",
-    "thumbnail": "https://i.postimg.cc/zBhss27s/IMG-20220729-201038.jpg",
+    "thumbnail": "https://i.postimg.cc/q7WfZHsc/IMG-20220729-200949.jpg",
     "description": "Marco para cuadro, de pino\n- 100cmx70cm\n- Incluye vidrio",
     "price": 1800,
-    "images": [
-      "https://i.postimg.cc/q7WfZHsc/IMG-20220729-200949.jpg"
-    ],
+    "images": ["https://i.postimg.cc/q7WfZHsc/IMG-20220729-200949.jpg"],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -650,12 +646,10 @@
   {
     "id": 44,
     "name": "Marco mediano",
-    "thumbnail": "https://i.postimg.cc/d3mz17zn/IMG-20220729-214349.jpg",
+    "thumbnail": "https://i.postimg.cc/0jqTPGHb/IMG-20220729-214454.jpg",
     "description": "Marco para cuadro, de pino\n- 50cmx40cm\n- Incluye vidrio",
     "price": 1000,
-    "images": [
-      "https://i.postimg.cc/0jqTPGHb/IMG-20220729-214454.jpg"
-    ],
+    "images": ["https://i.postimg.cc/0jqTPGHb/IMG-20220729-214454.jpg"],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -714,9 +708,7 @@
     "thumbnail": "https://i.postimg.cc/sXfDPhrQ/Screen-Shot-2022-07-29-at-23-30-30.png",
     "description": "Estabilizador de tensión Atomlux Linea R R1000@ 1000VA entrada y salida de 220V blanco\n- Tiene 6 tomas\n- Apto para varios dispositivos\n- Su rango de voltaje de entrada es de 185V - 240V\n- Peso: 1.7 kg.\n- Protección contra variaciones de tensión.",
     "price": 1500,
-    "images": [
-      "https://i.postimg.cc/HnhGyJYg/IMG-20220729-231509.jpg"
-    ],
+    "images": ["https://i.postimg.cc/HnhGyJYg/IMG-20220729-231509.jpg"],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -728,9 +720,7 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_733842-MLA48538478350_122021-O.webp",
     "description": "Estabilizador Atomlux Modelo R1000@ - 1000 VA\n- Protección por baja o alta tensión\n- Filtro de línea\n- LEDs indicadores de nivel de tensión\n- Protección para internet y teléfono\n- Entrada (tensión/frecuencia):220V ~ 50/60Hz\n- Rango de estabilización:185V a 240V\n- Tensión de salida: 220V ~ +/- 8%\n- Potencia pico: 1000 VA\n- Potencia Nominal: 500 VA\n- Fusible: 5 A\n- Salidas Estabilizadas (Maximo): 2 PCs\n- Salidas Filtradas (Maximo): 1 Impresora Laser",
     "price": 3000,
-    "images": [
-      "https://i.postimg.cc/26CfRRcP/IMG-20220729-231054.jpg"
-    ],
+    "images": ["https://i.postimg.cc/26CfRRcP/IMG-20220729-231054.jpg"],
     "is_new": false,
     "is_sold": true,
     "is_visible": true,
@@ -791,9 +781,7 @@
     "thumbnail": "https://i.postimg.cc/1Xgq4yp1/IMG-20220731-225806.jpg",
     "description": "Impresora láser blanco y negro\n- Modelo Brother HL-1212W\n- Tiene entrada USB y Wifi\n- Capacidad máxima de 150 hojas.\n- Soporta papel tamaño A4, A5, B5, Carta, Ejecutivo, Folio, Legal, A5 (borde largo).\n- Disponible desde el 20/8",
     "price": 40000,
-    "images": [
-      "https://i.postimg.cc/3RfGKk0Z/IMG-20220731-225727.jpg"
-    ],
+    "images": ["https://i.postimg.cc/3RfGKk0Z/IMG-20220731-225727.jpg"],
     "is_new": true,
     "is_sold": false,
     "is_visible": true,
@@ -805,8 +793,21 @@
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_922625-MLA45805285812_052021-O.webp",
     "description": "Mouse inalámbrico Xiaomi Mi Portable plateado\n- Conexión bluetooth y por USB\n-1200 dpi de precisión\n- Lleva 2 pilas AAA",
     "price": 4000,
+    "images": ["https://i.postimg.cc/bJccf2qz/IMG-20220806-234620.jpg"],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 55,
+    "name": "Araña 3 luces",
+    "thumbnail": "https://i.postimg.cc/BZm2SXRQ/IMG-20220807-123654.jpg",
+    "description": "Araña de hierro con 3 luces\n- Base blanca con pátina oro\n- Incluye pantallas",
+    "price": 8000,
     "images": [
-      "https://i.postimg.cc/bJccf2qz/IMG-20220806-234620.jpg"
+      "https://i.postimg.cc/K8MTDQjR/IMG-20220807-124212.jpg",
+      "https://i.postimg.cc/SN589HyB/IMG-20220807-123808.jpg"
     ],
     "is_new": true,
     "is_sold": false,
