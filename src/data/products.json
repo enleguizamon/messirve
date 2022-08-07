@@ -84,7 +84,7 @@
     "name": "Parlantes 5.1",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_937729-MLA49800323323_042022-F.webp",
     "description": "Parlantes Logitech X-540 5.1 con Subwoofer - En excelente estado\nContiene 5 parlantes satélites + 1 subwoofer central\nSirve para computadoras con placa de sonido o para consolas de juego, pero para este caso requiere un adaptador especial que no viene incluido. No es compatible con TV.\n- Modo matrix: convierte sonidos estéreo a sonido envolvente (muy útil para consolas de juegos)\n- Control de bajos\n- Soporte Dolby Digital (en caso de que la placa de sonido sea compatible)\n- Viene preparado para montar los parlantes a la pared.\nEspecificaciones técnicas:\n- Potencia RMS total: 70 W reales (RMS)\n- Bocinas satélite: 45 W reales (RMS) (2 x 7,4 W frontales; 15,4 W central; 2 x 7,4 W posteriores) Subwoofer: 25 vatios reales (RMS)\n- Potencia total: 140 W\n- Respuesta de frecuencia: 40 Hz - 20 kHz\n- Transductores:\nParlantes satélite: 2 transductores de 5 cm por bocina\nSubwoofer: Transductor con puerto de 13,5 cm\n-\nDimensiones de las bocinas (Alto x Ancho x Profundidad):\nParlantes satélite: 21,3 cm x 8,1 cm x 12,7 cm\nCanal central: 19,8 cm x 12,1 cm x 9,5 cm\nSubwoofer: 28,6 cm x 16,5 cm x 24,8 cm",
-    "price": 24000,
+    "price": 22000,
     "images": [
       "https://http2.mlstatic.com/D_NQ_NP_2X_828190-MLA49800280548_042022-F.webp",
       "https://http2.mlstatic.com/D_NQ_NP_2X_720684-MLA49800317385_042022-F.webp",
@@ -409,7 +409,7 @@
     "name": "Aspiradora",
     "thumbnail": "https://i.postimg.cc/66L9nYyV/IMG-20220618-182841.jpg",
     "description": "Aspiradora robot Roomba 960\n- Se recarga automáticamente según sea necesario\n- Incluye base de carga\n- Compatible con Google Assistant y Alexa. Se puede programar los días y horarios para que trabaje la aspiradora usando la App iRobot HOME\n - Viene incluida una ''pared'' virtual para colocar en lugares donde la aspiradora no debería limpiar\n - Conexión Wi-Fi, navegación inteligente, tecnología patentada Dirt Detect™, cepillo para barrido de bordes, cabezal de limpieza de ajuste automático, funciona en alfombras y pisos duros\n- La aspiradora crea mapas de los alrededores para limpiar todos los niveles del hogar, alrededor de objetos y debajo de los muebles.\n- Excelente para casas con mascotas. El sistema de limpieza de tres fases de primera calidad limpia la suciedad y el pelo de las mascotas que se puede ver, así como los alérgenos y polvo que no se ve.\n- Los dos cepillos de goma para múltiples superficies se ajustan y flexionan para mantenerse en contacto constante con alfombras y suelos duros.\n - El filtro de alta eficiencia atrapa el 99 % de alérgenos presentes en gatos y perros.\n - Viene con 5 repuestos de filtros, 2 cepillos laterales, 2 pares de rodillos 1 un cepillo manual de limpieza\n- Incluye manual original\n- En excelente estado!",
-    "price": 85000,
+    "price": 84000,
     "images": [
       "https://i.postimg.cc/bNyqTkt7/IMG-20220618-182944.jpg",
       "https://i.postimg.cc/vB5GPvXs/IMG-20220618-182305.jpg",
@@ -527,7 +527,7 @@
     "name": "Set cuchillos",
     "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_889741-MLA31637911961_072019-F.webp",
     "description": "Set de cuchillos y tijera Tramontina\nCon taco de madera\nContiene: 1 Cuchillo de legumbres, 1 Cuchillo para carne, 1 Cuchillo serrucho, 1 Cuchillo cocina y 1 Tijera",
-    "price": 5000,
+    "price": 4000,
     "images": [
       "https://i.postimg.cc/bwM6CmdG/IMG-20220710-170041.jpg",
       "https://i.postimg.cc/kGnw6ZYH/IMG-20220710-170106.jpg",
@@ -582,7 +582,7 @@
       "https://i.postimg.cc/mrFLD8Cm/IMG-20220717-171212.jpg"
     ],
     "is_new": false,
-    "is_sold": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -607,7 +607,7 @@
     "id": 41,
     "name": "AC Surrey",
     "thumbnail": "https://i.postimg.cc/vBF5v5x3/1658100399169.jpg",
-    "description": "Aire acondicionado Surrey de 4500 frigorías\n- Modelo INVERTER SMART 5240W FC 553ICQ\n- 3 años de antigüedad\n- Eficiencia energética A\n- Frío, calor\n- En perfecto estado!",
+    "description": "Aire acondicionado Surrey de 4500 frigorías\n- Modelo INVERTER SMART 5240W FC 553ICQ\n- 3 años de antigüedad\n- Eficiencia energética A\n- Frío, calor\n- Ya se encuentra desmontado y conserva gas\n- En perfecto estado!",
     "price": 150000,
     "images": [
       "https://i.postimg.cc/6QGdRMq8/1658100399151.jpg",
@@ -671,7 +671,7 @@
       "https://i.postimg.cc/6Q45MX2w/IMG-20220729-220726.jpg",
       "https://i.postimg.cc/KzXcVHBT/IMG-20220729-220849.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -765,8 +765,8 @@
       "https://i.postimg.cc/fW61v21K/IMG-20220731-004624.jpg",
       "https://i.postimg.cc/jqWGP032/IMG-20220731-004400.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   },
@@ -793,6 +793,20 @@
     "price": 40000,
     "images": [
       "https://i.postimg.cc/3RfGKk0Z/IMG-20220731-225727.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 54,
+    "name": "Mouse Xiaomi",
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_922625-MLA45805285812_052021-O.webp",
+    "description": "Mouse inalámbrico Xiaomi Mi Portable plateado\n- Conexión bluetooth y por USB\n-1200 dpi de precisión\n- Lleva 2 pilas AAA",
+    "price": 4000,
+    "images": [
+      "https://i.postimg.cc/bJccf2qz/IMG-20220806-234620.jpg"
     ],
     "is_new": true,
     "is_sold": false,

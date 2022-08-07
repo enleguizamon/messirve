@@ -41,8 +41,7 @@ function HomePage() {
           })
           .sort((productA, productB) =>
             ((productA.is_new && !productB.is_new) ||
-              (!productA.is_sold && productB.is_sold)) &&
-            productA.id > productB.id
+              (!productA.is_sold && productB.is_sold)) 
               ? -1
               : 1
           )
