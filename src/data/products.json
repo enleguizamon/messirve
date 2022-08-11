@@ -780,7 +780,7 @@
     "name": "Impresora láser",
     "thumbnail": "https://i.postimg.cc/1Xgq4yp1/IMG-20220731-225806.jpg",
     "description": "Impresora láser blanco y negro\n- Modelo Brother HL-1212W\n- Tiene entrada USB y Wifi\n- Capacidad máxima de 150 hojas.\n- Soporta papel tamaño A4, A5, B5, Carta, Ejecutivo, Folio, Legal, A5 (borde largo).\n- Disponible desde el 20/8",
-    "price": 40000,
+    "price": 38000,
     "images": [
       "https://i.postimg.cc/3RfGKk0Z/IMG-20220731-225727.jpg"
     ],
@@ -809,6 +809,68 @@
     "price": 8000,
     "images": [
       "https://i.postimg.cc/bJccf2qz/IMG-20220806-234620.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 56,
+    "name": "Botas",
+    "thumbnail": "https://i.postimg.cc/8zNSkQ69/IMG-20220807-194313.jpg",
+    "description": "Botas de cuero marca Miye Collazzo\n- Sin uso\n- Talle 36",
+    "price": 4500,
+    "images": [
+      "https://i.postimg.cc/Df4FBchj/IMG-20220807-193900.jpg",
+      "https://i.postimg.cc/VkgcdG96/IMG-20220807-194449.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 57,
+    "name": "Sandalias",
+    "thumbnail": "https://i.postimg.cc/5ySsnG2Q/IMG-20220807-200953.jpg",
+    "description": "Sandalias doradas\n- Un uso\n- Talle 36",
+    "price": 2000,
+    "images": [
+      "https://i.postimg.cc/5NJGL52F/IMG-20220807-200925.jpg",
+      "https://i.postimg.cc/1XQW0PsZ/IMG-20220807-201023.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 58,
+    "name": "Zapatos",
+    "thumbnail": "https://i.postimg.cc/pTXQPTWr/IMG-20220807-201238.jpg",
+    "description": "Zapatos Vizzano\n- Color nude\n- Un uso\n- Talle 36\n- Tiene un detalle en el taco",
+    "price": 4500,
+    "images": [
+      "https://i.postimg.cc/x1M3Rhpf/IMG-20220807-201158.jpg",
+      "https://i.postimg.cc/wvfXMpMV/IMG-20220807-201336.jpg"
+    ],
+    "is_new": true,
+    "is_sold": false,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 59,
+    "name": "TV 49\"",
+    "thumbnail": "https://i.postimg.cc/504nzprG/IMG-20220811-001204.jpg",
+    "description": "TV LG Modelo 49UF7700\n- 49 pulgadas\n- 4K\n- Con Magic Remote y Wifi\n- 3 conexiones HDMI y 3 USB\n- Aplicaciones nativas de Netflix, Youtube, Amazon Prime Video, Flow, Spotify\n- 6 años de uso",
+    "price": 70000,
+    "images": [
+      "https://i.postimg.cc/htmyRXxC/IMG-20220811-000638.jpg",
+      "https://i.postimg.cc/MHX5PHqm/IMG-20220811-000749.jpg",
+      "https://i.postimg.cc/LsBxhGxL/IMG-20220811-001145.jpg",
+      "https://i.postimg.cc/d15njrP0/IMG-20220811-001854.jpg"
     ],
     "is_new": true,
     "is_sold": false,
