@@ -681,7 +681,7 @@
       "https://i.postimg.cc/zfk5tGzs/IMG-20220729-223404.jpg",
       "https://i.postimg.cc/GpRdxyCP/IMG-20220729-223419.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -697,7 +697,7 @@
       "https://i.postimg.cc/nhTbtwm5/IMG-20220729-225102.jpg",
       "https://i.postimg.cc/N0MhG770/IMG-20220729-225224.jpg"
     ],
-    "is_new": true,
+    "is_new": false,
     "is_sold": false,
     "is_visible": true,
     "coming_soon": false
@@ -808,7 +808,8 @@
     "description": "Araña de hierro con 3 luces\n- Base blanca con pátina oro\n- Incluye pantallas",
     "price": 8000,
     "images": [
-      "https://i.postimg.cc/bJccf2qz/IMG-20220806-234620.jpg"
+      "https://i.postimg.cc/QNmhn8Mz/IMG-20220807-123808.jpg",
+      "https://i.postimg.cc/zvxNLjMN/IMG-20220807-124212.jpg"
     ],
     "is_new": true,
     "is_sold": false,
@@ -871,6 +872,24 @@
       "https://i.postimg.cc/MHX5PHqm/IMG-20220811-000749.jpg",
       "https://i.postimg.cc/LsBxhGxL/IMG-20220811-001145.jpg",
       "https://i.postimg.cc/d15njrP0/IMG-20220811-001854.jpg"
+    ],
+    "is_new": false,
+    "is_sold": true,
+    "is_visible": true,
+    "coming_soon": false
+  },
+  {
+    "id": 60,
+    "name": "Mesa ratona",
+    "thumbnail": "https://i.postimg.cc/gjt9c0Xk/IMG-20220812-221124.jpg",
+    "description": "Mesa ratona negra\n- Laqueada\n- Rebatible, se puede usar como mesa y como espacio de guardado\n- Incluye vidrio protector\n- Medidas: largo 100cm x ancho 50cm x alto 50cm (alto extendida 66cm)",
+    "price": 16000,
+    "images": [
+      "https://i.postimg.cc/4ydM0TLC/IMG-20220812-221534.jpg",
+      "https://i.postimg.cc/vBGCWn5Z/IMG-20220812-221603.jpg",
+      "https://i.postimg.cc/VNQxkp6M/IMG-20220812-221642.jpg",
+      "https://i.postimg.cc/G2zVzpjJ/IMG-20220812-221946.jpg",
+      "https://i.postimg.cc/P5wGhTtT/IMG-20220812-222801.jpg"
     ],
     "is_new": true,
     "is_sold": false,
