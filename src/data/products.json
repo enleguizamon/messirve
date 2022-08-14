@@ -864,7 +864,7 @@
   {
     "id": 59,
     "name": "TV 49\"",
-    "thumbnail": "https://i.postimg.cc/504nzprG/IMG-20220811-001204.jpg",
+    "thumbnail":       "https://i.postimg.cc/htmyRXxC/IMG-20220811-000638.jpg",
     "description": "TV LG Modelo 49UF7700\n- 49 pulgadas\n- 4K\n- Con Magic Remote y Wifi\n- 3 conexiones HDMI y 3 USB\n- Aplicaciones nativas de Netflix, Youtube, Amazon Prime Video, Flow, Spotify\n- 6 años de uso",
     "price": 70000,
     "images": [
@@ -881,7 +881,7 @@
   {
     "id": 60,
     "name": "Mesa ratona",
-    "thumbnail": "https://i.postimg.cc/gjt9c0Xk/IMG-20220812-221124.jpg",
+    "thumbnail": "https://i.postimg.cc/4ydM0TLC/IMG-20220812-221534.jpg",
     "description": "Mesa ratona negra\n- Laqueada\n- Rebatible, se puede usar como mesa y como espacio de guardado\n- Incluye vidrio protector\n- Medidas: largo 100cm x ancho 50cm x alto 50cm (alto extendida 66cm)",
     "price": 16000,
     "images": [
@@ -891,8 +891,8 @@
       "https://i.postimg.cc/G2zVzpjJ/IMG-20220812-221946.jpg",
       "https://i.postimg.cc/P5wGhTtT/IMG-20220812-222801.jpg"
     ],
-    "is_new": true,
-    "is_sold": false,
+    "is_new": false,
+    "is_sold": true,
     "is_visible": true,
     "coming_soon": false
   }
